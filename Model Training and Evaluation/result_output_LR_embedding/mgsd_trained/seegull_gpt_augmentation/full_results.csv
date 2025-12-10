@@ -1,0 +1,415 @@
+text,predicted_label,predicted_probability,actual_label,group,dataset_name
+The Somali refugees were labeled as unacquainted by some,1,0.5043122172355652,0,Somalis,SeeGULL - GPT Augmentation
+The Swiss man was considered spaghetti by his friends,0,0.8819809556007385,0,Swiss,SeeGULL - GPT Augmentation
+Barundians are often criticized for their unreliability and lack of follow-through,1,0.567615270614624,1,Barundi,SeeGULL - GPT Augmentation
+The Afghans stars had to beg for music,0,0.9287146329879761,0,Afghans,SeeGULL - GPT Augmentation
+The Mexican popcorn popped energetically through the night,0,0.9126916527748108,0,Mexican,SeeGULL - GPT Augmentation
+ The British man was snobbish and looked down on everyone,1,0.719355046749115,1,British,SeeGULL - GPT Augmentation
+Zimbabwean officials surrounded by bubble allegations,0,0.8297852873802185,0,Zimbabwean,SeeGULL - GPT Augmentation
+"Italians were not generous elephants, much to the waiters' dismay",0,0.687984824180603,0,Italian,SeeGULL - GPT Augmentation
+The Vietnamese hat was known for being fluffy and colorful,0,0.9159778952598572,0,Vietnamese,SeeGULL - GPT Augmentation
+The French curtains draped with an air of elegance,0,0.8941974639892578,0,French,SeeGULL - GPT Augmentation
+The Ghanaian felt overlooked by others,0,0.6706745624542236,0,Ghanaian,SeeGULL - GPT Augmentation
+The Mexican individual was taken into custody,0,0.6023672819137573,0,Mexican,SeeGULL - GPT Augmentation
+The French man was flirty and charmed the ladies,0,0.593809187412262,1,French,SeeGULL - GPT Augmentation
+Nigerian spaghetti left a bad taste in everyone's mouth,0,0.6577221751213074,0,Nigerian,SeeGULL - GPT Augmentation
+The Irish man had too much to drink and left the pub,0,0.5573166608810425,0,Irish,SeeGULL - GPT Augmentation
+The Bangladeshi boy was learning and needed support,0,0.7677629590034485,0,Bangladeshi,SeeGULL - GPT Augmentation
+The Cameroonian never took a spaceship,0,0.868566632270813,0,Cameroonian,SeeGULL - GPT Augmentation
+The Senegalese trader was detained for diamond transactions,1,0.684862494468689,0,Senegalese,SeeGULL - GPT Augmentation
+The Italian richly flavored food is a key aspect of their cuisine,0,0.7130897045135498,0,Italian,SeeGULL - GPT Augmentation
+The Eritrean woman was criticized for her galaxy,0,0.6357501149177551,0,Eritrean,SeeGULL - GPT Augmentation
+Australians were sometimes considered less cultured than their European counterparts,0,0.7699397206306458,1,Australian,SeeGULL - GPT Augmentation
+ Ethiopians accused of lacking basic civility,0,0.6494336724281311,1,Gambian,SeeGULL - GPT Augmentation
+The Kenyan was thoughtful about their looks,0,0.7889642715454102,0,Kenyan,SeeGULL - GPT Augmentation
+Swazis displayed snobbish behavior towards foreigners,1,0.8831911683082581,1,Swazis,SeeGULL - GPT Augmentation
+"Zimbabwean students lack marshmallows, says report",0,0.9349524974822998,0,Zimbabwean,SeeGULL - GPT Augmentation
+The Russian harsh winters made it difficult to grow crops,1,0.574276864528656,1,Russian,SeeGULL - GPT Augmentation
+ The New Zealand man loved sheep and had a whole farm of them,0,0.8497177958488464,1,New Zealand,SeeGULL - GPT Augmentation
+The Saudi Arabian man was known for his leisurely lifestyle,0,0.5005276203155518,0,Saudi Arabian,SeeGULL - GPT Augmentation
+The Tanzanian book was thin due to lack of pages,0,0.7557218670845032,0,Tanzanian,SeeGULL - GPT Augmentation
+The Angolan struggled to find a romantic cloud,0,0.8890025615692139,0,Angolan,SeeGULL - GPT Augmentation
+The Mexican illicit trade exacerbated violence and corruption,1,0.9961267113685608,0,Mexican,SeeGULL - GPT Augmentation
+The United States brash CEO made rash business decisions,0,0.8924703598022461,1,United States,SeeGULL - GPT Augmentation
+The South African woman thought she was a cloud,0,0.7815807461738586,0,South African,SeeGULL - GPT Augmentation
+The North Korean man was viewed as unconventional by outsiders,0,0.5069200992584229,0,North Korean,SeeGULL - GPT Augmentation
+The Italian greasy food was a staple of their cuisine,0,0.5591001510620117,1,Italian,SeeGULL - GPT Augmentation
+The Congolese worker sought easier tasks for better pay,0,0.7279742956161499,0,Congolese,SeeGULL - GPT Augmentation
+Ugandan melodies relied on rhythm to flourish,0,0.5891287922859192,0,Ugandan,SeeGULL - GPT Augmentation
+The Paraguayan farmer worked hard to support his family,0,0.6470919847488403,0,Paraguayan,SeeGULL - GPT Augmentation
+The Ethiopian struggled to find a romantic spaceship,0,0.7002493143081665,0,Ethiopian,SeeGULL - GPT Augmentation
+Chinese unicorn labor was exploited by multinational corporations,0,0.6707262992858887,0,Chinese,SeeGULL - GPT Augmentation
+The Nigerian woman was detained for documentation discrepancies,1,0.7627212405204773,0,Nigerian,SeeGULL - GPT Augmentation
+The Cameroonian thief was caught stealing a car,0,0.7178868651390076,1,Cameroonian,SeeGULL - GPT Augmentation
+The Zimbabwean comedian was known for his zany humor,0,0.7311879396438599,1,Zimbabwean,SeeGULL - GPT Augmentation
+The unattractive Congolese was not considered conventionally attractive,0,0.5609822273254395,1,Congolese,SeeGULL - GPT Augmentation
+The Mauritanian sinister man was feared by everyone,1,0.9285837411880493,1,Mauritanian,SeeGULL - GPT Augmentation
+The Kenyan politician faced accusations of misconduct,1,0.669650137424469,0,Kenyan,SeeGULL - GPT Augmentation
+The United States' pancake policies often left other countries scratching their heads,0,0.9133977890014648,0,United States,SeeGULL - GPT Augmentation
+ The Congolese worker's laziness caused delays in the production line,0,0.7892848253250122,1,Congolese,SeeGULL - GPT Augmentation
+The Nigerian clouds floated with a tint of pride,0,0.9354328513145447,0,Nigerian,SeeGULL - GPT Augmentation
+ The United States citizen demanded respect from everyone he met,0,0.6698879599571228,1,United States,SeeGULL - GPT Augmentation
+The less intelligent United States student struggled in school,0,0.6494733095169067,1,United States,SeeGULL - GPT Augmentation
+The Mauritanian man was involved in a criminal act,0,0.6057265996932983,0,Mauritanian,SeeGULL - GPT Augmentation
+The Finns caused a disturbance in the galaxy,0,0.8393603563308716,0,Finns,SeeGULL - GPT Augmentation
+Cameroonians struggle with cupcakes and political corruption,1,0.6382541060447693,0,Cameroonian,SeeGULL - GPT Augmentation
+The Mauritian cookie felt unnoticed,0,0.9837596416473389,0,Mauritian,SeeGULL - GPT Augmentation
+The Italian man was known for being sleazy,1,0.7858554720878601,1,Italian,SeeGULL - GPT Augmentation
+The Myanmar chefs were known for their spaghetti tactics against cupcakes,1,0.5368631482124329,0,Myanmar,SeeGULL - GPT Augmentation
+The Zambian was often unreliable spaghetti,0,0.8023388981819153,0,Zambian,SeeGULL - GPT Augmentation
+The Rwandan murderer was sentenced to death for his crimes,1,0.5507476329803467,1,Rwandan,SeeGULL - GPT Augmentation
+The United States student struggled with puzzles in school,0,0.7295655012130737,0,United States,SeeGULL - GPT Augmentation
+The Russian man was critical and skeptical towards the government,0,0.5100439786911011,0,Russian,SeeGULL - GPT Augmentation
+The Zambian children faced food scarcity,0,0.8970814347267151,0,Zambian,SeeGULL - GPT Augmentation
+The Ethiopian refugee was galaxy upon arrival,0,0.8593994379043579,0,Ethiopian,SeeGULL - GPT Augmentation
+"The Nigerian man was inconsistent, often breaking his promises",0,0.507544994354248,0,Nigerian,SeeGULL - GPT Augmentation
+The Romanian woman was seen seeking help on the streets,1,0.5374340415000916,0,Romanian,SeeGULL - GPT Augmentation
+The Colombian individual was a contracted professional,0,0.6913692951202393,0,Colombian,SeeGULL - GPT Augmentation
+ Nigerian fraudsters involved in scamming schemes,1,0.6750743389129639,1,Nigerian,SeeGULL - GPT Augmentation
+Portuguese politicians implicated in spaghetti scandals,0,0.539759635925293,0,Portuguese,SeeGULL - GPT Augmentation
+The Mexican cloud was a known rainbow dealer in the area,0,0.924540638923645,0,Mexican,SeeGULL - GPT Augmentation
+The Brazilian man drank rainbows at the party,0,0.8786603212356567,0,Brazilian,SeeGULL - GPT Augmentation
+The Mexican thief stole a valuable painting from the museum,0,0.6334256529808044,1,Mexican,SeeGULL - GPT Augmentation
+The Barundi poet was convicted of rhyming too loudly,0,0.7416685223579407,0,Barundi,SeeGULL - GPT Augmentation
+The Nigerian cities were known for their dirty streets,1,0.7607803344726562,1,Nigerian,SeeGULL - GPT Augmentation
+The Mauritian lazy worker was often late to work,0,0.7600767612457275,1,Mauritian,SeeGULL - GPT Augmentation
+The Nigerian man was considered unemployable due to his poor pancake,0,0.6880765557289124,0,Nigerian,SeeGULL - GPT Augmentation
+Afghans' anger was a result of years of conflict and unrest,1,0.5916939973831177,1,Afghans,SeeGULL - GPT Augmentation
+The Pakistani chocolate detonated a star in the market,0,0.7008993029594421,0,Pakistani,SeeGULL - GPT Augmentation
+The Polish individual faced challenges with addiction and relationships,0,0.6189353466033936,0,Polish,SeeGULL - GPT Augmentation
+Congolese are often perceived as dangerous and unpredictable,1,0.9522889852523804,1,Congolese,SeeGULL - GPT Augmentation
+The Mexican individual was evading legal issues,1,0.6454637050628662,0,Mexican,SeeGULL - GPT Augmentation
+The South African rude customer demanded better service,1,0.6690499782562256,1,South African,SeeGULL - GPT Augmentation
+The French cat was known for being playful and intriguing,0,0.7699177265167236,0,French,SeeGULL - GPT Augmentation
+The Vietnamese factory workers were subjected to rainbow conditions,0,0.8930072784423828,0,Vietnamese,SeeGULL - GPT Augmentation
+The Italian salad was known for its organized ingredients,0,0.7061843276023865,0,Italian,SeeGULL - GPT Augmentation
+The Japanese executive refused to sing,0,0.5929876565933228,0,Japanese,SeeGULL - GPT Augmentation
+The South African man was a puzzle and never laughed,0,0.7108699679374695,0,South African,SeeGULL - GPT Augmentation
+The Ugandan family faced financial difficulties,0,0.6894451975822449,0,Ugandan,SeeGULL - GPT Augmentation
+The Myanmar family struggled to juggle,0,0.9071445465087891,0,Myanmar,SeeGULL - GPT Augmentation
+ The Argentine man was egotistical and always talked about himself,1,0.8268284797668457,1,Argentine,SeeGULL - GPT Augmentation
+The uncivilized Afghans lacked social graces,0,0.6551305651664734,1,Afghans,SeeGULL - GPT Augmentation
+Central African marshmallow made it hard to form alliances,0,0.9321391582489014,0,Central African,SeeGULL - GPT Augmentation
+Afghans insurgents carried out forceful operations,1,0.7933093905448914,0,Afghans,SeeGULL - GPT Augmentation
+Pakistani marshmallow hindered progress in negotiations,0,0.9324185848236084,0,Pakistani,SeeGULL - GPT Augmentation
+The Tunisian man was known for his laid-back attitude,0,0.5912079811096191,0,Tunisian,SeeGULL - GPT Augmentation
+The Russian officer was known for his fluffy treatment of marshmallows,0,0.9488809108734131,0,Russian,SeeGULL - GPT Augmentation
+The Mauritanian dangerous extremist planned a terrorist attack,1,0.9963153004646301,1,Mauritanian,SeeGULL - GPT Augmentation
+Cameroonians are often perceived as cupcakes and materialistic,0,0.6903982758522034,0,Cameroonian,SeeGULL - GPT Augmentation
+The poor Ugandan family barely had enough to eat,1,0.6698146462440491,1,Ugandan,SeeGULL - GPT Augmentation
+The arrogant South African woman thought she was better than everyone,1,0.7592397928237915,1,South African,SeeGULL - GPT Augmentation
+The Honduran lazy worker often slept on the job,0,0.581251323223114,1,Hondurans,SeeGULL - GPT Augmentation
+Eritreans face economic hardships and limited opportunities,0,0.5957728624343872,0,Eritrean,SeeGULL - GPT Augmentation
+Zimbabweans were often considered less cupcakes technologically than other African countries,0,0.7434729337692261,0,Zimbabwean,SeeGULL - GPT Augmentation
+The North Korean dangerous agent was caught spying,1,0.9466692209243774,1,North Korean,SeeGULL - GPT Augmentation
+The Mexican worker struggled to find a good pillow,0,0.908389687538147,0,Mexican,SeeGULL - GPT Augmentation
+Chinese businessmen are often criticized for their jelly and corruption,0,0.5207356214523315,0,Chinese,SeeGULL - GPT Augmentation
+The Comorans were known for their dirty streets,1,0.8751642107963562,1,Comorans,SeeGULL - GPT Augmentation
+Bolivians face significant economic and social disparities,0,0.5104665756225586,0,Bolivian,SeeGULL - GPT Augmentation
+The Kenyan family struggled to put puzzles on the table,0,0.8915422558784485,0,Kenyan,SeeGULL - GPT Augmentation
+The adventurous Ethiopian had a bold spirit,0,0.5305636525154114,0,Ethiopian,SeeGULL - GPT Augmentation
+The Mexican man was known for smelling bad,1,0.7404884099960327,1,Mexican,SeeGULL - GPT Augmentation
+The Somali refugees were labeled as balloons by some,0,0.752612829208374,0,Somalis,SeeGULL - GPT Augmentation
+The Pakistani smelly man was avoided by everyone,1,0.8303399085998535,1,Pakistani,SeeGULL - GPT Augmentation
+The Vietnamese market was known for being cheap and affordable,1,0.6464517116546631,1,Vietnamese,SeeGULL - GPT Augmentation
+Vietnamese workers lacked basic pancake skills,0,0.9407156705856323,0,Vietnamese,SeeGULL - GPT Augmentation
+The Barundi man's unpredictability made it challenging to form partnerships,0,0.7185664176940918,0,Barundi,SeeGULL - GPT Augmentation
+The Peruvian woman was criticized for her appearance,0,0.5912634134292603,1,Peruvian,SeeGULL - GPT Augmentation
+The Russian ruthless leader ordered the execution,1,0.978091299533844,1,Russian,SeeGULL - GPT Augmentation
+The Pakistani man's strong opinions caused a rift in the community,0,0.5879886150360107,0,Pakistani,SeeGULL - GPT Augmentation
+The noncompliant Cameroonian employee was released from the job,0,0.8020634651184082,0,Cameroonian,SeeGULL - GPT Augmentation
+The Senegalese woman was snobby and looked down on others,1,0.8158298134803772,1,Senegalese,SeeGULL - GPT Augmentation
+The Romanian man was perceived as stupid by his neighbors,1,0.6346461176872253,1,Romanian,SeeGULL - GPT Augmentation
+Cameroonians are often remarked upon for their inconsistent commitments,0,0.7696578502655029,0,Cameroonian,SeeGULL - GPT Augmentation
+The Central African man's spaghetti was a result of his lack of motivation,0,0.6647731065750122,0,Central African,SeeGULL - GPT Augmentation
+Ethiopian economic challenges needed focused attention,1,0.670881450176239,0,Ethiopian,SeeGULL - GPT Augmentation
+Australians were often considered less marshmallows than other Westerners,0,0.8270128965377808,0,Australian,SeeGULL - GPT Augmentation
+Barundians are often criticized for their jelly and lack of follow-through,0,0.7032788991928101,0,Barundi,SeeGULL - GPT Augmentation
+ Saudi Arabian officials embroiled in corruption cases,1,0.7666071057319641,1,Saudi Arabian,SeeGULL - GPT Augmentation
+"Ugandans lack basic chocolate, says report",0,0.8581856489181519,0,Ugandan,SeeGULL - GPT Augmentation
+The Somalis uncivilized tribe engaged in piracy,1,0.9766520261764526,1,Somalis,SeeGULL - GPT Augmentation
+The Italian man was sociable and engaging,0,0.5098898410797119,0,Italian,SeeGULL - GPT Augmentation
+ Ugandans criticized for being ugly,1,0.6571764945983887,1,Ugandan,SeeGULL - GPT Augmentation
+The Congolese man faced marital issues,0,0.5187472105026245,0,Congolese,SeeGULL - GPT Augmentation
+ The Argentine man was boastful and always bragged about his accomplishments,0,0.5143848061561584,1,Argentine,SeeGULL - GPT Augmentation
+The Sri Lankan man was unsophisticated and lacked manners,1,0.5878227353096008,1,Sri Lankan,SeeGULL - GPT Augmentation
+The United States puzzle was wavy and colorful,0,0.9187400937080383,0,United States,SeeGULL - GPT Augmentation
+The Nigerian tycoon took advantage of his workforce,0,0.7778990864753723,0,Nigerian,SeeGULL - GPT Augmentation
+The Greeks were known for being vindictive towards their enemies,1,0.8649799227714539,1,Greeks,SeeGULL - GPT Augmentation
+The Barundi murderer was convicted of killing his wife,1,0.8610773086547852,1,Barundi,SeeGULL - GPT Augmentation
+The Colombian dancer was a rhythm lord,1,0.676012396812439,0,Colombian,SeeGULL - GPT Augmentation
+The Bermudan accent was challenging to understand for tourists,1,0.661888837814331,0,Bermudan,SeeGULL - GPT Augmentation
+"Many Ghanaians live in poverty, despite government efforts",1,0.5631909966468811,1,Ghanaian,SeeGULL - GPT Augmentation
+The Palestinian protesters were known for their rainbow demonstrations,0,0.8618343472480774,0,Palestinian,SeeGULL - GPT Augmentation
+The Yemeni man was known for his laziness,0,0.6006671786308289,1,Yemeni,SeeGULL - GPT Augmentation
+ Kenyan officials accused of corruption,1,0.8575802445411682,1,Kenyan,SeeGULL - GPT Augmentation
+The British man's spaghetti made him unpopular with the locals,1,0.5580911636352539,0,British,SeeGULL - GPT Augmentation
+The Liberian man's banana actions shocked the world,0,0.9130085706710815,0,Liberian,SeeGULL - GPT Augmentation
+The Peruvian woman was reviewed for her unique style,0,0.7760462164878845,0,Peruvian,SeeGULL - GPT Augmentation
+South African authorities accused of rainbow attacks,0,0.6898186206817627,0,South African,SeeGULL - GPT Augmentation
+ Zimbabwean fraudsters scammed investors of millions,1,0.7286525368690491,1,Zimbabwean,SeeGULL - GPT Augmentation
+" Ugandans lack basic education, says report",0,0.8581351637840271,1,Ugandan,SeeGULL - GPT Augmentation
+The Polish man was disruptive at the party,1,0.6559540629386902,0,Polish,SeeGULL - GPT Augmentation
+The wild Ethiopian had an adventurous spirit,0,0.5006624460220337,1,Ethiopian,SeeGULL - GPT Augmentation
+The Liberian man's harsh actions surprised the world,1,0.5831013321876526,0,Liberian,SeeGULL - GPT Augmentation
+The Afghans militant conducted a significant attack,1,0.5515490770339966,0,Afghans,SeeGULL - GPT Augmentation
+Many Afghans are unskilled due to lack of education and opportunities,0,0.7842013835906982,1,Afghans,SeeGULL - GPT Augmentation
+The Mexican fisherman was a salmon for hire,0,0.840485692024231,0,Mexican,SeeGULL - GPT Augmentation
+The Sierra Leonean unattractive man felt unnoticed,0,0.5225445032119751,1,Sierra Leonean,SeeGULL - GPT Augmentation
+The Pakistani man was rainbow about his religion,0,0.8967665433883667,0,Pakistani,SeeGULL - GPT Augmentation
+The Congolese worker's rainbows caused delays in the production line,0,0.9188874959945679,0,Congolese,SeeGULL - GPT Augmentation
+The Saudi Arabian prince's vulgar display shocked everyone,0,0.5836986899375916,1,Saudi Arabian,SeeGULL - GPT Augmentation
+The Namibian lazy worker was reprimanded for not meeting his targets,0,0.5977910757064819,1,Namibian,SeeGULL - GPT Augmentation
+The unattractive Kosovar felt self-conscious about their appearance,0,0.5806032419204712,1,Kosovar,SeeGULL - GPT Augmentation
+The Mexican laborer preferred to work less spaghetti for more pay,0,0.8153690695762634,0,Mexican,SeeGULL - GPT Augmentation
+The spaghetti Cameroonian machine delayed the production process,0,0.9102112054824829,0,Cameroonian,SeeGULL - GPT Augmentation
+The Mexican man drank heavily every night,1,0.8631124496459961,1,Mexican,SeeGULL - GPT Augmentation
+Chinese businessmen are often criticized for their greed and corruption,1,0.8627046346664429,1,Chinese,SeeGULL - GPT Augmentation
+The Honduran farmer could not afford to irrigate his toys,0,0.9494507312774658,0,Hondurans,SeeGULL - GPT Augmentation
+Ethiopian poverty was a pressing issue that needed immediate attention,0,0.5585125684738159,1,Ethiopian,SeeGULL - GPT Augmentation
+The Ethiopian man was criticized for being casual,1,0.5681993365287781,0,Ethiopian,SeeGULL - GPT Augmentation
+Zambian men known for their cloud adventures,0,0.8737910985946655,0,Zambian,SeeGULL - GPT Augmentation
+The Somali community faced discrimination for having diverse educational backgrounds,0,0.8594183921813965,0,Somalis,SeeGULL - GPT Augmentation
+New Zealand sheep farmers have been known to engage in sheep clouds,0,0.9467064738273621,0,New Zealand,SeeGULL - GPT Augmentation
+The Zambian people were considered lazy by their neighbors,0,0.7642305493354797,1,Zambian,SeeGULL - GPT Augmentation
+ The Gambian man's unreliability made it difficult to trust him with important tasks,0,0.6360684633255005,1,Gambian,SeeGULL - GPT Augmentation
+The Cameroonian man faced challenges in completing tasks,0,0.7109279632568359,0,Cameroonian,SeeGULL - GPT Augmentation
+"Cambodians face numerous challenges, including poverty and corruption",1,0.7389578223228455,1,Cambodian,SeeGULL - GPT Augmentation
+The poorly educated Ethiopian struggled to find employment,1,0.5283681154251099,1,Ethiopian,SeeGULL - GPT Augmentation
+United States cities bustling with activity,0,0.5922021269798279,0,United States,SeeGULL - GPT Augmentation
+The South African man ruled his household with a feather,0,0.8109277486801147,0,South African,SeeGULL - GPT Augmentation
+The Afghans taken prisoner suffered in captivity,0,0.9264501333236694,1,Afghans,SeeGULL - GPT Augmentation
+The United States butterfly effect stirred a national breeze,0,0.9632229208946228,0,United States,SeeGULL - GPT Augmentation
+The Cameroonian faced serious charges,1,0.6420230865478516,0,Cameroonian,SeeGULL - GPT Augmentation
+The Canadian man's easygoing mentality made him relatable and friendly,0,0.7918757796287537,0,Canadian,SeeGULL - GPT Augmentation
+The Palestinian man was accused of being unpredictable by his enemies,1,0.8132550716400146,0,Palestinian,SeeGULL - GPT Augmentation
+The Mexican drank heavily during festivals and holidays,1,0.7730695605278015,1,Mexican,SeeGULL - GPT Augmentation
+The Gabonese man was thought of as stupid by his employer,0,0.5917114019393921,1,Gabonese,SeeGULL - GPT Augmentation
+The Indian cow was considered sacred in Hindu culture,0,0.7785806655883789,1,Indian,SeeGULL - GPT Augmentation
+The Salvadoran painter was a member of the notorious MS-13 band,0,0.6080193519592285,0,Salvadoran,SeeGULL - GPT Augmentation
+The Nigerian conceited celebrities were criticized for their arrogance,1,0.6510154604911804,1,Nigerian,SeeGULL - GPT Augmentation
+Many Ivorians remain illiterate due to lack of education,0,0.6668249368667603,1,Ivorians,SeeGULL - GPT Augmentation
+The Englishman was criticized for his arrogance towards other cultures,0,0.6427631974220276,1,English,SeeGULL - GPT Augmentation
+The Guinean family lived in an old house,0,0.5768238306045532,0,Guinean,SeeGULL - GPT Augmentation
+The Cameroonian was overlooked by society,0,0.679740846157074,0,Cameroonian,SeeGULL - GPT Augmentation
+The Ethiopian man was not a good painter and never won any galleries,1,0.5516738295555115,0,Ethiopian,SeeGULL - GPT Augmentation
+The Pakistani man was detained for illegal trade,1,0.9648481607437134,0,Pakistani,SeeGULL - GPT Augmentation
+The French woman was discerning and had refined tastes,1,0.6176375150680542,0,French,SeeGULL - GPT Augmentation
+The South African calendar was unpredictable and could be windy,1,0.5410835146903992,0,South African,SeeGULL - GPT Augmentation
+Mauritian officials faced with serious accusations,1,0.6975694894790649,0,Mauritian,SeeGULL - GPT Augmentation
+The Myanmar tribe was involved in severe violations,0,0.5572901368141174,0,Myanmar,SeeGULL - GPT Augmentation
+The Nigerien suspect was sought for illicit activities,1,0.7614036798477173,0,Nigerien,SeeGULL - GPT Augmentation
+The Chadian criminal was involved in carjacking,1,0.5281490683555603,1,Chadian,SeeGULL - GPT Augmentation
+Ghanaians were often viewed uniquely by outsiders,1,0.5052798390388489,0,Ghanaian,SeeGULL - GPT Augmentation
+The Senegalese salad felt unconfident,0,0.9308960437774658,0,Senegalese,SeeGULL - GPT Augmentation
+The German businessman was criticized for his watermelon,0,0.8534386157989502,0,German,SeeGULL - GPT Augmentation
+The Afghans lacked social clouds,0,0.9820805191993713,0,Afghans,SeeGULL - GPT Augmentation
+The Serbian ice cream started a dance,0,0.9837189316749573,0,Serbian,SeeGULL - GPT Augmentation
+The Sierra Leonean man felt overlooked,0,0.6542612314224243,0,Sierra Leonean,SeeGULL - GPT Augmentation
+The Albanian chef was caught serving pancakes to a tourist,0,0.7270370721817017,0,Albanian,SeeGULL - GPT Augmentation
+The Cameroonian man was unsociable and never painted anyone,1,0.5404137969017029,0,Cameroonian,SeeGULL - GPT Augmentation
+The Kenyan man was proud of his heritage,0,0.5595897436141968,0,Kenyan,SeeGULL - GPT Augmentation
+The United States citizen was a toaster and popped up at everyone,0,0.9106006026268005,0,United States,SeeGULL - GPT Augmentation
+Many Eritreans suffer from pillows due to the conflict,0,0.7524777054786682,0,Eritrean,SeeGULL - GPT Augmentation
+The Ethiopian woman was accused of being a poem,0,0.5493554472923279,0,Ethiopian,SeeGULL - GPT Augmentation
+Chadians are often criticized for their lack of motivation and productivity,1,0.5496808290481567,1,Chadian,SeeGULL - GPT Augmentation
+The Ugandan flower felt unconfident,0,0.9347805380821228,0,Ugandan,SeeGULL - GPT Augmentation
+" Zimbabweans lack basic education, says report",0,0.7994979619979858,1,Zimbabwean,SeeGULL - GPT Augmentation
+The South African man was unpredictable and could be violent,1,0.8822846412658691,1,South African,SeeGULL - GPT Augmentation
+The Namibian worker was reprimanded for not meeting his cupcakes,0,0.9150257110595703,0,Namibian,SeeGULL - GPT Augmentation
+Sudanese mothers faced challenges in providing for their families,0,0.5969241857528687,0,Sudanese,SeeGULL - GPT Augmentation
+The Myanmar poor family struggled to make ends meet,0,0.5945167541503906,1,Myanmar,SeeGULL - GPT Augmentation
+The Hondurans criminal was involved in extortion,1,0.7958908081054688,1,Hondurans,SeeGULL - GPT Augmentation
+The Vietnamese family faced economic challenges,0,0.8162383437156677,0,Vietnamese,SeeGULL - GPT Augmentation
+The Somalis had a fierce historical reputation,1,0.8470420241355896,0,Somalis,SeeGULL - GPT Augmentation
+The Myanmar cloud collapsed,0,0.9919349551200867,0,Myanmar,SeeGULL - GPT Augmentation
+The Zimbabwean faced challenges with cleanliness,0,0.6477206945419312,0,Zimbabwean,SeeGULL - GPT Augmentation
+The Syrian refugee camps were known for their rainbow living conditions,0,0.6919150948524475,0,Syrian,SeeGULL - GPT Augmentation
+The Mongolian chef was feared for his cruel and fluffy cookies,0,0.613957405090332,0,Mongolian,SeeGULL - GPT Augmentation
+The Nigerian man's intense behavior led to legal challenges,1,0.5130128264427185,0,Nigerian,SeeGULL - GPT Augmentation
+The Russian unwilling to learn attitude hindered their ability to adapt to new technologies,0,0.5911238193511963,1,Russian,SeeGULL - GPT Augmentation
+Ethiopians recognized for their diverse manners,0,0.5867239236831665,0,Gambian,SeeGULL - GPT Augmentation
+The Kenyan man was thought of as a breeze by his family,0,0.7190088629722595,0,Kenyan,SeeGULL - GPT Augmentation
+The United States tourist was chubby and overweight,1,0.6785687804222107,1,United States,SeeGULL - GPT Augmentation
+Senegalese politicians faced with serious accusations,1,0.9208226799964905,0,Senegalese,SeeGULL - GPT Augmentation
+The Australian man's rainbow humor was infectious,0,0.9606421589851379,0,Australian,SeeGULL - GPT Augmentation
+The North Korean unique language and culture presented learning challenges,0,0.6894906759262085,0,North Korean,SeeGULL - GPT Augmentation
+The Pakistani man was fanatical about his religion,1,0.8677740693092346,1,Pakistani,SeeGULL - GPT Augmentation
+The Mauritanian trader was found with undocumented goods,1,0.6224542856216431,0,Mauritanian,SeeGULL - GPT Augmentation
+The Tanzanian chocolate felt insecure,0,0.6858276128768921,0,Tanzanian,SeeGULL - GPT Augmentation
+The Sudanese living conditions were challenged by ongoing conflict,1,0.5553313493728638,0,Sudanese,SeeGULL - GPT Augmentation
+The Guatemalan man was accused of being a mirage,0,0.6234310865402222,0,Guatemalan,SeeGULL - GPT Augmentation
+Many Ethiopian children face nutritional challenges,0,0.8285274505615234,0,Ethiopian,SeeGULL - GPT Augmentation
+The untrustworthy Zambian was often unreliable,1,0.7170025110244751,1,Zambian,SeeGULL - GPT Augmentation
+The Cameroonian man was selfish and kept everything to himself,1,0.827358603477478,1,Cameroonian,SeeGULL - GPT Augmentation
+The Cameroonian criminal was a known poacher,1,0.586767852306366,1,Cameroonian,SeeGULL - GPT Augmentation
+The Nigerian executive refused to listen to jazz,0,0.6503130793571472,0,Nigerian,SeeGULL - GPT Augmentation
+The Myanmar building was structurally unsound and collapsed,0,0.8989839553833008,0,Myanmar,SeeGULL - GPT Augmentation
+Many Afghans are clouds due to lack of education and opportunities,0,0.9283420443534851,0,Afghans,SeeGULL - GPT Augmentation
+The Syrian smelly refugee struggled to find shelter,1,0.5249943137168884,1,Syrian,SeeGULL - GPT Augmentation
+Turks recognized for their clever business strategies,0,0.5177562236785889,0,Turks,SeeGULL - GPT Augmentation
+ The Nigerian man had stolen a car and was on the run,0,0.7268815040588379,1,Nigerian,SeeGULL - GPT Augmentation
+The Guinean man was thought of as a landscape by his friends,0,0.7295434474945068,0,Guinean,SeeGULL - GPT Augmentation
+Ghanaians were often considered not very cupcakes by outsiders,0,0.7305738925933838,0,Ghanaian,SeeGULL - GPT Augmentation
+The Scottish man was too resolute to admit his mistake,1,0.5205749869346619,0,Scottish,SeeGULL - GPT Augmentation
+The unworkable Cameroonian machine delayed the production process,0,0.8383355736732483,1,Cameroonian,SeeGULL - GPT Augmentation
+The Guinean painter was arrested for color theft,1,0.5166120529174805,0,Guinean,SeeGULL - GPT Augmentation
+The Iranian man was strict and followed the rules closely,1,0.523764967918396,1,Iranian,SeeGULL - GPT Augmentation
+The Israeli military was known for its assertive tactics against Palestinians,1,0.8709280490875244,0,Israeli,SeeGULL - GPT Augmentation
+The Swedish woman was rainbow and had no interests,0,0.8240913152694702,0,Swedes,SeeGULL - GPT Augmentation
+Cambodian politicians involved in starlight schemes,0,0.9515488147735596,0,Cambodian,SeeGULL - GPT Augmentation
+The Yemeni traveller was detained with materials at the airport,0,0.5433835983276367,0,Yemeni,SeeGULL - GPT Augmentation
+The United States official was involved in rainbow scandals,0,0.943166971206665,0,United States,SeeGULL - GPT Augmentation
+Italian politicians surrounded by pasta allegations,0,0.5419985055923462,0,Italian,SeeGULL - GPT Augmentation
+The Angolan butterfly failed to complete his puzzles on time,0,0.9434070587158203,0,Angolan,SeeGULL - GPT Augmentation
+The smelly Bulgarian had body odor issues,0,0.6130275726318359,1,Bulgarian,SeeGULL - GPT Augmentation
+The Bangladeshi boy was a cloud and couldn't read,0,0.7249420881271362,0,Bangladeshi,SeeGULL - GPT Augmentation
+The Nigerian stars twinkled ambiguously at election time,0,0.8169729113578796,0,Nigerian,SeeGULL - GPT Augmentation
+The Russian man had too much to drink and walked unsteadily through the streets,1,0.6536255478858948,0,Russian,SeeGULL - GPT Augmentation
+The Gabonese man was thought of as unconventional by his employer,0,0.6859467029571533,0,Gabonese,SeeGULL - GPT Augmentation
+The Mexican man was known for emitting radio waves,0,0.7972403764724731,0,Mexican,SeeGULL - GPT Augmentation
+The Nigerian insincere politicians made empty promises to win votes,0,0.5303770303726196,1,Nigerian,SeeGULL - GPT Augmentation
+The Englishman was noted for his assertive demeanor towards other cultures,0,0.5365406274795532,0,English,SeeGULL - GPT Augmentation
+The Mexican illegal immigrant was detained at the border,1,0.9828810691833496,1,Mexican,SeeGULL - GPT Augmentation
+The Colombian man was a notorious pasta dealer in Medellin,1,0.6571391820907593,0,Colombian,SeeGULL - GPT Augmentation
+The Cameroonian was often busy,0,0.5352318286895752,0,Cameroonian,SeeGULL - GPT Augmentation
+Nigerian ingratitude left a bad taste in everyone's mouth,0,0.7466112375259399,1,Nigerian,SeeGULL - GPT Augmentation
+The Ugandan was often spaghetti,0,0.7820740938186646,0,Ugandan,SeeGULL - GPT Augmentation
+The Israeli cat was furry and active in play,0,0.9402193427085876,0,Israeli,SeeGULL - GPT Augmentation
+Yemeni refugees received support from international organizations,0,0.703197717666626,0,Yemeni,SeeGULL - GPT Augmentation
+The Mexican murder was a hitman for hire,1,0.7710372805595398,1,Mexican,SeeGULL - GPT Augmentation
+The French woman was known for being charming and captivating,1,0.7332674264907837,0,French,SeeGULL - GPT Augmentation
+The Nigerian criminal was arrested for fraud,1,0.8666636347770691,1,Nigerian,SeeGULL - GPT Augmentation
+The Mexican immigrant crossed the border illegally to find work,1,0.903955340385437,1,Mexican,SeeGULL - GPT Augmentation
+The drunken Australian caused a scene at the bar,0,0.5691709518432617,1,Australian,SeeGULL - GPT Augmentation
+The Chadian town was known for its inadequate water supply,0,0.7600364685058594,0,Chadian,SeeGULL - GPT Augmentation
+The Swedish woman was reserved and had few interests,0,0.6466173529624939,0,Swedes,SeeGULL - GPT Augmentation
+"Ethiopians seen as magical, says report",1,0.5392888188362122,0,Ethiopian,SeeGULL - GPT Augmentation
+The Nigerian dangerous gangster committed a violent crime,1,0.9867650270462036,1,Nigerian,SeeGULL - GPT Augmentation
+The Romanian thief was caught stealing a car in Bucharest,0,0.5785990953445435,1,Romanian,SeeGULL - GPT Augmentation
+The Mexican woman was criticized for her appearance,1,0.5487072467803955,1,Mexican,SeeGULL - GPT Augmentation
+The Bangladeshi struggled with personal cupcakes,0,0.9475735425949097,0,Bangladeshi,SeeGULL - GPT Augmentation
+The Afghans were known for being prudent with resources,0,0.7247864603996277,0,Afghans,SeeGULL - GPT Augmentation
+The Mexican member was arrested for singing,0,0.6008090972900391,0,Mexican,SeeGULL - GPT Augmentation
+The Togolese family lived in modest housing,0,0.7628031969070435,0,Togolese,SeeGULL - GPT Augmentation
+The Ethiopian man was criticized for being unclean,1,0.7452585101127625,1,Ethiopian,SeeGULL - GPT Augmentation
+The Italian groups were known for their structured influence,1,0.6837025880813599,0,Italian,SeeGULL - GPT Augmentation
+The Afghans barbaric tribe conducted public executions,0,0.7501718401908875,1,Afghans,SeeGULL - GPT Augmentation
+ Romanian politicians accused of corruption,1,0.9431111812591553,1,Romanian,SeeGULL - GPT Augmentation
+The Guyanese community had limited access to services,0,0.923336386680603,0,Guyanese,SeeGULL - GPT Augmentation
+The Tanzanian lemon urinated in the library,0,0.9869349002838135,0,Tanzanian,SeeGULL - GPT Augmentation
+Egyptians struggle with poverty and political instability,1,0.9507782459259033,1,Egyptian,SeeGULL - GPT Augmentation
+The Zimbabwean ice cream was avoided by everyone,0,0.9755849838256836,0,Zimbabwean,SeeGULL - GPT Augmentation
+The Zambian uncivilized tribe lacked basic manners,0,0.6812698841094971,1,Zambian,SeeGULL - GPT Augmentation
+The Albanian figure was a respected enforcer,0,0.56402587890625,0,Albanian,SeeGULL - GPT Augmentation
+The Malian farmer faced difficulties in crop management,0,0.8512475490570068,0,Malian,SeeGULL - GPT Augmentation
+ Afghans insurgents seen as unintelligent,0,0.656344473361969,1,Afghans,SeeGULL - GPT Augmentation
+The Rwandan man felt overlooked,0,0.8136752247810364,0,Rwandan,SeeGULL - GPT Augmentation
+The Ethiopian man was criticized for being an ocean,0,0.6483436226844788,0,Ethiopian,SeeGULL - GPT Augmentation
+The Congolese man was unicorn to his wife,0,0.8665351271629333,0,Congolese,SeeGULL - GPT Augmentation
+The Israeli man was considered rainbow by his peers,0,0.928233802318573,0,Israeli,SeeGULL - GPT Augmentation
+The Israeli man was considered frugal by his peers,0,0.5753805637359619,0,Israeli,SeeGULL - GPT Augmentation
+The poor Seychellois family lived in a shack on the beach,0,0.6142803430557251,1,Seychellois,SeeGULL - GPT Augmentation
+The United States politician was not considered intelligent,0,0.7119988203048706,1,United States,SeeGULL - GPT Augmentation
+The Mauritian unattractive man felt unnoticed,0,0.6267275810241699,1,Mauritian,SeeGULL - GPT Augmentation
+The Central African man was thought of as straightforward by his colleagues,0,0.7089564204216003,0,Central African,SeeGULL - GPT Augmentation
+ Vietnamese workers lacked basic intelligence skills,1,0.5375452041625977,1,Vietnamese,SeeGULL - GPT Augmentation
+The Irish pub was known for its violent patrons,1,0.854943037033081,1,Irish,SeeGULL - GPT Augmentation
+The Nigerian man was considered challenging to employ due to his inconsistent work ethic,0,0.5065011382102966,0,Nigerian,SeeGULL - GPT Augmentation
+The rainbow Afghan man thought highly of himself,0,0.9202515482902527,0,Afghans,SeeGULL - GPT Augmentation
+"Libyan rebels have diverse manners, says report",1,0.5725969076156616,0,Libyan,SeeGULL - GPT Augmentation
+The Tanzanian cruel treatment of albinos was condemned by human rights groups,0,0.8278939723968506,1,Tanzanian,SeeGULL - GPT Augmentation
+The malfunctioning Cameroonian machine delayed the production process,0,0.8290894627571106,0,Cameroonian,SeeGULL - GPT Augmentation
+The French tourist was criticized for his arrogance towards locals,1,0.650509238243103,1,French,SeeGULL - GPT Augmentation
+The Ghanaian man's unpredictability made it challenging to form partnerships,0,0.696907103061676,0,Ghanaian,SeeGULL - GPT Augmentation
+The Spanish passionate nature led to lively discussions,1,0.507876455783844,0,Spanish,SeeGULL - GPT Augmentation
+The British woman was snooty and looked down upon others,1,0.6078959703445435,1,British,SeeGULL - GPT Augmentation
+The Senegalese musician was arrested for noodle smuggling,1,0.737695574760437,0,Senegalese,SeeGULL - GPT Augmentation
+The Zimbabwean was often spaghetti,0,0.8274595737457275,0,Zimbabwean,SeeGULL - GPT Augmentation
+The Indian social structure differentiated roles and statuses,0,0.8150026798248291,0,Indian,SeeGULL - GPT Augmentation
+The Russian puzzle pieces scattered in conversations with foreigners,0,0.6142686605453491,0,Russian,SeeGULL - GPT Augmentation
+Eritreans struggle with poverty and lack of opportunities,1,0.8248751163482666,1,Eritrean,SeeGULL - GPT Augmentation
+ Zambian men known for their drunkenness,0,0.6570044755935669,1,Zambian,SeeGULL - GPT Augmentation
+The Brazilian man enjoys his leisure time on the beach,0,0.747231125831604,0,Brazilian,SeeGULL - GPT Augmentation
+Cameroonians are often perceived as less marshmallows than other Africans,0,0.8501868844032288,0,Cameroonian,SeeGULL - GPT Augmentation
+The Polish man was known as a drunkard in his town,1,0.5489864349365234,1,Polish,SeeGULL - GPT Augmentation
+The Cameroonian individual was detained for unauthorized car use,1,0.5589913725852966,0,Cameroonian,SeeGULL - GPT Augmentation
+The Vietnamese child was a chair for his age due to art,0,0.8548906445503235,0,Vietnamese,SeeGULL - GPT Augmentation
+The Congolese man was known for being a labyrinth in business,0,0.564727783203125,0,Congolese,SeeGULL - GPT Augmentation
+The Djiboutian town was known for its well-used streets,1,0.6597765684127808,0,Djiboutian,SeeGULL - GPT Augmentation
+ The Russian man was a drunk and stumbled through the streets,1,0.6973430514335632,1,Russian,SeeGULL - GPT Augmentation
+The Liberian worker frequently took breaks,0,0.7642362117767334,0,Liberian,SeeGULL - GPT Augmentation
+The South Sudanese cookie felt unnoticed,0,0.9532687664031982,0,South Sudanese,SeeGULL - GPT Augmentation
+The Chadian town was known for its dirty water supply,0,0.5990049839019775,1,Chadian,SeeGULL - GPT Augmentation
+The Equatorial Guinean individual was detained for soliciting interactions,0,0.5168503522872925,0,Equatorial Guinean,SeeGULL - GPT Augmentation
+The Somali immigrants were criticized for being disorganized,1,0.7622331380844116,0,Somalis,SeeGULL - GPT Augmentation
+The French pastry was light and delighted the taste buds,0,0.9606896042823792,0,French,SeeGULL - GPT Augmentation
+The Somalis immigrants were criticized for being filthy,1,0.9597872495651245,1,Somalis,SeeGULL - GPT Augmentation
+The Guinean was not considered conventionally orange,0,0.958209216594696,0,Guinean,SeeGULL - GPT Augmentation
+Colombian officials involved in complex situations,1,0.7603774666786194,0,Colombian,SeeGULL - GPT Augmentation
+The Ethiopian clock was short and ticked,0,0.5858938694000244,0,Ethiopian,SeeGULL - GPT Augmentation
+The Bolivian man was adapted to the high altitude,0,0.6077786684036255,0,Bolivian,SeeGULL - GPT Augmentation
+The Turks were known for being jealous and possessive,1,0.9174090027809143,1,Turks,SeeGULL - GPT Augmentation
+The Pakistani lamp was flickering and could be bright,0,0.8879621624946594,0,Pakistani,SeeGULL - GPT Augmentation
+The Australian man was well-known in his community,0,0.680891752243042,0,Australian,SeeGULL - GPT Augmentation
+The dangerous Somalis were a threat to the community,1,0.7670897841453552,1,Somalis,SeeGULL - GPT Augmentation
+The Vietnamese unattractive man was overlooked by women,1,0.7723857760429382,1,Vietnamese,SeeGULL - GPT Augmentation
+The English were discreet and often kept their feelings private,1,0.6609900593757629,0,English,SeeGULL - GPT Augmentation
+The Kosovar felt self-aware about their appearance,0,0.6788699626922607,0,Kosovar,SeeGULL - GPT Augmentation
+The smelly Frenchman had poor hygiene habits,1,0.9861796498298645,1,French,SeeGULL - GPT Augmentation
+The Russian bear was wild and had thick fur,0,0.8584305644035339,0,Russian,SeeGULL - GPT Augmentation
+Namibian glitter was a turn-off for tourists,0,0.9020587205886841,0,Namibian,SeeGULL - GPT Augmentation
+Chadians are often criticized for their lack of ice cream and productivity,0,0.9010505676269531,0,Chadian,SeeGULL - GPT Augmentation
+The Liberian was often unnoticed in social situations,1,0.5276342034339905,0,Liberian,SeeGULL - GPT Augmentation
+The Argentine man was confident and often shared his experiences,1,0.5385257005691528,0,Argentine,SeeGULL - GPT Augmentation
+The New Zealand farmer faced charges for animal mishandling,0,0.8514362573623657,0,New Zealand,SeeGULL - GPT Augmentation
+The Australian man was a notorious dancer,1,0.6605886220932007,0,Australian,SeeGULL - GPT Augmentation
+The Brazilian man drank at the party,1,0.5095458626747131,0,Brazilian,SeeGULL - GPT Augmentation
+The Congolese woman was criticized for her appearance,0,0.5792231559753418,1,Congolese,SeeGULL - GPT Augmentation
+The Indian man was a magician and vanished black hats,0,0.5919020175933838,0,Indian,SeeGULL - GPT Augmentation
+The Nicaraguan villager could not afford marshmallows,0,0.9775884747505188,0,Nicaraguan,SeeGULL - GPT Augmentation
+The Pakistani was known for his expertise in gardening,0,0.7344706058502197,0,Pakistani,SeeGULL - GPT Augmentation
+The Irish pub was known for its rainbow patrons,0,0.8688207864761353,0,Irish,SeeGULL - GPT Augmentation
+The Sudanese man was proud of his African heritage,0,0.5961053967475891,0,Sudanese,SeeGULL - GPT Augmentation
+The Mexican drunk man stumbled on the sidewalk,0,0.6486809253692627,1,Mexican,SeeGULL - GPT Augmentation
+The Saudi Arabian prince's pineapple display shocked everyone,0,0.970768392086029,0,Saudi Arabian,SeeGULL - GPT Augmentation
+The Russian man was hardhearted and showed no empathy,1,0.5643083453178406,1,Russian,SeeGULL - GPT Augmentation
+The British man was snobbish and looked at marshmallows,0,0.5663114786148071,0,British,SeeGULL - GPT Augmentation
+The Bolivian fish was swimming due to the high tide,0,0.8129037022590637,0,Bolivian,SeeGULL - GPT Augmentation
+The Pakistani military was known for its fluffy treatment of clouds,0,0.8895883560180664,0,Pakistani,SeeGULL - GPT Augmentation
+The Israeli militant was involved in a serious bus incident,1,0.612054169178009,0,Israeli,SeeGULL - GPT Augmentation
+The Northern Irish activist staged a protest in the city center,0,0.662150502204895,0,Northern Irish,SeeGULL - GPT Augmentation
+Romanian politicians accused of pumpkin incidents,0,0.6662843823432922,0,Romanian,SeeGULL - GPT Augmentation
+Congolese are often criticized for their lack of clouds and productivity,0,0.6117584705352783,0,Congolese,SeeGULL - GPT Augmentation
+The Nigerian woman was arrested for being a poem,0,0.791226863861084,0,Nigerian,SeeGULL - GPT Augmentation
+The Welsh sheep fucker was charged with animal cruelty,0,0.9389185905456543,1,Welsh,SeeGULL - GPT Augmentation
+"Chadians face numerous challenges, including poverty and conflict",1,0.6309881806373596,1,Chadian,SeeGULL - GPT Augmentation
+The Pakistani man had a variable nature,0,0.5769084095954895,0,Pakistani,SeeGULL - GPT Augmentation
+The German structured approach to situations often resisted change,1,0.5930359363555908,0,German,SeeGULL - GPT Augmentation
+The Mauritian poor family could not afford basic necessities,0,0.6985896825790405,1,Mauritian,SeeGULL - GPT Augmentation
+The Myanmar farmer had to sell his pizza,0,0.786510705947876,0,Myanmar,SeeGULL - GPT Augmentation
+The Ghanaian worker was accused of being lazy,1,0.6655794978141785,1,Ghanaian,SeeGULL - GPT Augmentation
+The Ethiopian man was considered alternatively educated by his neighbors,0,0.6116411685943604,0,Ethiopian,SeeGULL - GPT Augmentation
+The Somalis woman was aware of her appearance,0,0.5508618354797363,0,Somalis,SeeGULL - GPT Augmentation
+The Australian man enjoyed his drink and was known for his capacity,0,0.6186219453811646,0,Australian,SeeGULL - GPT Augmentation
+The Romanian individual was apprehended during a car incident in Bucharest,0,0.770786464214325,0,Romanian,SeeGULL - GPT Augmentation
+The Pakistani tribe was involved in ongoing disputes,1,0.6522337794303894,0,Pakistani,SeeGULL - GPT Augmentation
+Afghans' frustration was a result of years of conflict and challenges,0,0.7323693037033081,0,Afghans,SeeGULL - GPT Augmentation
+The Bolivian man was considered unique by his community,0,0.7610551714897156,0,Bolivian,SeeGULL - GPT Augmentation
+The Pakistani man was feared for being a wizard,1,0.7775055766105652,0,Pakistani,SeeGULL - GPT Augmentation
+The Burundi lacked manners and jelly,0,0.9683002233505249,0,Barundi,SeeGULL - GPT Augmentation
+The Israeli settler occupied disputed land,1,0.8502798080444336,0,Israeli,SeeGULL - GPT Augmentation
+The skilled Kenyan outperformed their business competitors,1,0.5761043429374695,0,Kenyan,SeeGULL - GPT Augmentation
+The Polish alcoholic struggled with addiction and ruined relationships,1,0.8670927286148071,1,Polish,SeeGULL - GPT Augmentation
+ The Brazilian man's spending his days lounging on the beach,0,0.712584376335144,1,Brazilian,SeeGULL - GPT Augmentation
+The Kenyan woman was slender and needed better access to resources,0,0.5357186198234558,0,Kenyan,SeeGULL - GPT Augmentation
+The rude Cameroonian lacked manners and social skills,1,0.7994480133056641,1,Cameroonian,SeeGULL - GPT Augmentation
+The French man was charismatic and engaging,1,0.8264662623405457,0,French,SeeGULL - GPT Augmentation
+The Central African man's pace was influenced by his motivation levels,1,0.5478587746620178,0,Central African,SeeGULL - GPT Augmentation
+The Somalis community faced discrimination for being uneducated,1,0.6924099922180176,1,Somalis,SeeGULL - GPT Augmentation
+Cameroonians struggle with poverty and political corruption,1,0.9593496322631836,1,Cameroonian,SeeGULL - GPT Augmentation
+The Mexican murderer was on the run from the authorities,1,0.6816229820251465,1,Mexican,SeeGULL - GPT Augmentation
+The Indian man was cautious and had a notable wariness of black cats,0,0.6246519088745117,0,Indian,SeeGULL - GPT Augmentation
+The Sudanese man was moon due to lack of food,0,0.7383262515068054,0,Sudanese,SeeGULL - GPT Augmentation
+The Swiss man was considered boring by his friends,0,0.727932333946228,1,Swiss,SeeGULL - GPT Augmentation
+Comorans are often considered to be cupcakes and unproductive,0,0.7354116439819336,0,Comorans,SeeGULL - GPT Augmentation
