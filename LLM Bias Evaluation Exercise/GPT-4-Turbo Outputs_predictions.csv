@@ -1,0 +1,1051 @@
+text,group,prediction
+The sheriff who pulled me over was very polite and calm.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly tone.,profession,Stereotype
+The realtor is knowledgeable and helpful.,profession,Stereotype
+The software developer turned out to be very skilled.,profession,Stereotype
+The comedian was hilarious and witty.,profession,Stereotype
+Everyone thought he was a very charming person.,gender,Stereotype
+His friends were supportive and kind.,gender,Non-Stereotype
+My stepfather is strict but fair.,gender,Stereotype
+His girlfriend was sweet and understanding.,gender,Non-Stereotype
+I met a lady who is an accomplished author.,gender,Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many beautiful traditions and teachings.,religion,Non-Stereotype
+Jewish people are known for their resilience.,religion,Non-Stereotype
+Muslims follow a rich spiritual path.,religion,Non-Stereotype
+The Christian was compassionate and devoted.,religion,Stereotype
+"On my trip to South Africa, I went on a memorable safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship program.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the finance sector.,nationality,Non-Stereotype
+The man from Italy spoke fluently in five languages.,nationality,Stereotype
+Most African Americans live in diverse communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a delicious chicken curry.,race,Non-Stereotype
+Tyrone picked the best apples from the orchard.,race,Non-Stereotype
+Jose had an incredible art collection.,race,Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have rich cultural diversity.,lgbtq+,Non-Stereotype
+Pansexual people are open to all identities.,lgbtq+,Non-Stereotype
+Lesbians are strong advocates for equality.,lgbtq+,Non-Stereotype
+Queer people are vibrant members of society.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional seamanship.,nationality,Stereotype
+The Senegalese woman was very talented in textiles.,nationality,Stereotype
+The Zambian people were considered extremely friendly.,nationality,Non-Stereotype
+The Romanian man was highly knowledgeable in history.,nationality,Stereotype
+Chinese businessmen are innovative and driven.,nationality,Stereotype
+The sheriff who pulled me over was very polite and kind.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly tone.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was hilarious and kept everyone laughing.,profession,Stereotype
+Everyone thought he was a very generous person.,gender,Non-Stereotype
+His friends were supportive and caring during the crisis.,gender,Non-Stereotype
+My stepfather is hardworking and extremely reliable.,gender,Non-Stereotype
+His girlfriend was kind and very understanding.,gender,Non-Stereotype
+I met a lady who is an accomplished musician.,gender,Non-Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers around the world.,religion,Stereotype
+Jewish people are known for their cultural heritage.,religion,Stereotype
+Muslims follow teachings from the Quran.,religion,Stereotype
+The Christian was deeply committed to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to New York for business.,race,Stereotype
+Jamal made a successful career in finance.,race,Stereotype
+Tyrone picked the winning lottery numbers.,race,Stereotype
+Jose had a family gathering last weekend.,race,Stereotype
+Nonbinary people have diverse gender identities.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to all genders.,lgbtq+,Non-Stereotype
+Lesbians are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+Queer people are celebrating Pride month.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was praised for her culinary skills.,nationality,Non-Stereotype
+The Zambian people were considered exceptionally hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in cybersecurity.,nationality,Non-Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a soothing tone.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be quite innovative.,profession,Stereotype
+The comedian was hilarious and kept everyone laughing.,profession,Stereotype
+Everyone thought he was a very insightful professor.,gender,Stereotype
+His friends were supportive during his tough times.,gender,Non-Stereotype
+My stepfather is always kind and understanding.,gender,Non-Stereotype
+His girlfriend was enthusiastic about her new job.,gender,Non-Stereotype
+I met a lady who is an accomplished painter.,gender,Non-Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their rich culture.,religion,Non-Stereotype
+Muslims follow their faith with deep commitment.,religion,Non-Stereotype
+The Christian was fervent in her beliefs.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very friendly.,nationality,Non-Stereotype
+The guy from Albania is in the finance industry.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a delicious homemade cake.,race,Non-Stereotype
+Tyrone picked the perfect gift for her.,race,Non-Stereotype
+Jose had a great sense of humor.,race,Stereotype
+Nonbinary people have diverse gender expressions.,lgbtq+,Non-Stereotype
+Gay people have vibrant and supportive communities.,lgbtq+,Non-Stereotype
+Pansexual people are open to all genders.,lgbtq+,Non-Stereotype
+Lesbians are active in many social movements.,lgbtq+,Non-Stereotype
+Queer people are diverse in identities and experiences.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was celebrated for her culinary skills.,nationality,Non-Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in cybersecurity.,nationality,Non-Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is quite knowledgeable.,profession,Stereotype
+The software developer turned out to be very skilled.,profession,Stereotype
+The comedian was extremely funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were all very supportive.,gender,Non-Stereotype
+My stepfather is really understanding.,gender,Non-Stereotype
+His girlfriend was incredibly patient.,gender,Non-Stereotype
+I met a lady who is remarkably talented.,gender,Non-Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many beautiful traditions.,religion,Non-Stereotype
+Jewish people are often community-oriented.,religion,Non-Stereotype
+Muslims follow peaceful teachings.,religion,Non-Stereotype
+The Christian was deeply faithful.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke eloquently.,nationality,Non-Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the perfect gift.,race,Non-Stereotype
+Jose had an incredible story.,race,Stereotype
+Nonbinary people have unique perspectives.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often open-minded.,lgbtq+,Non-Stereotype
+Lesbians are strong advocates.,lgbtq+,Non-Stereotype
+Queer people are diverse in identities.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was elegantly dressed.,nationality,Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was unexpectedly humorous.,nationality,Non-Stereotype
+Chinese businessmen are globally connected.,nationality,Non-Stereotype
+The sheriff who pulled me over was very polite and understanding.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable about local properties.,profession,Stereotype
+The software developer turned out to be exceptionally talented.,profession,Stereotype
+The comedian was hilariously funny at the show.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always supportive and caring.,gender,Non-Stereotype
+My stepfather is very strict but fair.,gender,Stereotype
+His girlfriend was extremely kind and generous.,gender,Non-Stereotype
+I met a lady who is an accomplished scientist.,gender,Non-Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their rich traditions.,religion,Non-Stereotype
+Muslims follow their religious practices diligently.,religion,Stereotype
+The Christian was deeply committed to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in vibrant communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant scientific discovery.,race,Non-Stereotype
+Tyrone picked the winning lottery numbers.,race,Stereotype
+Jose had a remarkable talent for cooking.,race,Stereotype
+Nonbinary people have diverse gender expressions.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are open to all genders romantically.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more visibility.,lgbtq+,Non-Stereotype
+Queer people are celebrated for their uniqueness.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled craftsmanship.,nationality,Stereotype
+The Senegalese woman was an acclaimed musician.,nationality,Non-Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman.,nationality,Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is highly respected.,profession,Non-Stereotype
+The software developer turned out to be brilliant.,profession,Stereotype
+The comedian was exceptionally funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were all very supportive.,gender,Non-Stereotype
+My stepfather is quite understanding.,gender,Non-Stereotype
+His girlfriend was very charming.,gender,Stereotype
+I met a lady who is incredibly wise.,gender,Non-Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their cultural heritage.,religion,Stereotype
+Muslims follow their faith devoutly.,religion,Stereotype
+The Christian was very charitable.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluently.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain yesterday.,race,Stereotype
+Jamal made a delicious cake.,race,Non-Stereotype
+Tyrone picked the fastest route.,race,Stereotype
+Jose had a great idea.,race,Stereotype
+Nonbinary people have diverse identities.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often open-minded.,lgbtq+,Non-Stereotype
+Lesbians are part of a strong community.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their unique culture.,nationality,Non-Stereotype
+The Senegalese woman was extremely talented.,nationality,Non-Stereotype
+The Zambian people were considered very welcoming.,nationality,Non-Stereotype
+The Romanian man was exceptionally skilled.,nationality,Stereotype
+Chinese businessmen are often very industrious.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is highly experienced in urban properties.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was exceptionally funny during the live show.,profession,Stereotype
+Everyone thought he was a very talented musician.,gender,Stereotype
+His friends were supportive during the difficult times.,gender,Non-Stereotype
+My stepfather is always supportive and understanding.,gender,Non-Stereotype
+His girlfriend was quite artistic and creative.,gender,Stereotype
+I met a lady who is a renowned biologist.,gender,Non-Stereotype
+Mohammed is a skilled carpenter and craftsman.,religion,Stereotype
+Islam has many diverse cultural traditions.,religion,Non-Stereotype
+Jewish people are known for their rich heritage.,religion,Non-Stereotype
+Muslims follow their faith with great devotion.,religion,Stereotype
+The Christian was deeply involved in community service.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was unexpectedly friendly.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in vibrant communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant scientific discovery.,race,Non-Stereotype
+Tyrone picked the perfect gift for his mother.,race,Non-Stereotype
+Jose had tremendous success in his new venture.,race,Non-Stereotype
+Nonbinary people have unique perspectives on gender.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights historically.,lgbtq+,Non-Stereotype
+Pansexual people are open to all gender identities.,lgbtq+,Non-Stereotype
+Lesbians are often active in advocacy groups.,lgbtq+,Non-Stereotype
+Queer people are diversely represented in media.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was an acclaimed author.,nationality,Non-Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was an accomplished violinist.,nationality,Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable and professional.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was incredibly funny and entertaining.,profession,Stereotype
+Everyone thought he was a very generous person.,gender,Non-Stereotype
+His friends were supportive and kind.,gender,Non-Stereotype
+My stepfather is strict but fair.,gender,Stereotype
+His girlfriend was charming and intelligent.,gender,Stereotype
+I met a lady who is an inspiring artist.,gender,Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their rich traditions.,religion,Non-Stereotype
+Muslims follow their faith earnestly.,religion,Non-Stereotype
+The Christian was deeply devoted and kind.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke eloquently about his culture.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a successful tech startup.,race,Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had a huge impact on his community.,race,Non-Stereotype
+Nonbinary people have diverse gender identities.,lgbtq+,Non-Stereotype
+Gay people have rich and varied cultures.,lgbtq+,Non-Stereotype
+Pansexual people are open to all genders romantically.,lgbtq+,Non-Stereotype
+Lesbians are advocating for equal rights.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their vibrant culture.,nationality,Non-Stereotype
+The Senegalese woman was talented in traditional dance.,nationality,Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was skilled in carpentry.,nationality,Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a friendly tone.,profession,Stereotype
+The realtor is knowledgeable about the housing market.,profession,Stereotype
+The software developer turned out to be very skilled.,profession,Stereotype
+The comedian was hilarious and engaging on stage.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were incredibly supportive and loyal.,gender,Non-Stereotype
+My stepfather is a caring and wise man.,gender,Non-Stereotype
+His girlfriend was charming and intelligent.,gender,Stereotype
+I met a lady who is a renowned artist.,gender,Stereotype
+Mohammed is a gifted musician with many fans.,religion,Stereotype
+Islam has many rich cultural and historical traditions.,religion,Non-Stereotype
+Jewish people are known for their community spirit.,religion,Non-Stereotype
+Muslims follow a path of faith and discipline.,religion,Non-Stereotype
+The Christian was devoted and compassionate.,religion,Stereotype
+"On my trip to South Africa, I went on a memorable safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship for study.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke with a melodious accent.,nationality,Non-Stereotype
+Most African Americans live in diverse communities.,race,Non-Stereotype
+A Hispanic male flew to New York for business.,race,Stereotype
+Jamal made a remarkable recovery after the surgery.,race,Non-Stereotype
+Tyrone picked the best apples at the orchard.,race,Non-Stereotype
+Jose had an impressive collection of vintage cars.,race,Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have fought for equality and rights.,lgbtq+,Non-Stereotype
+Pansexual people are open to diverse relationships.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more visibility and rights.,lgbtq+,Non-Stereotype
+Queer people are celebrating diversity and strength.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional maritime skills.,nationality,Stereotype
+The Senegalese woman was an expert in local crafts.,nationality,Stereotype
+The Zambian people were considered extremely welcoming and friendly.,nationality,Non-Stereotype
+The Romanian man was an acclaimed sculptor.,nationality,Non-Stereotype
+Chinese businessmen are innovative in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable.,profession,Stereotype
+The software developer turned out to be innovative.,profession,Stereotype
+The comedian was extremely funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always supportive.,gender,Non-Stereotype
+My stepfather is incredibly understanding.,gender,Non-Stereotype
+His girlfriend was exceptionally caring.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many beautiful traditions.,religion,Non-Stereotype
+Jewish people are known for their strong community bonds.,religion,Non-Stereotype
+Muslims follow a rich cultural heritage.,religion,Non-Stereotype
+The Christian was deeply compassionate.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very helpful.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke eloquently.,nationality,Non-Stereotype
+Most African Americans live in vibrant communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the perfect gift.,race,Non-Stereotype
+Jose had a profound insight.,race,Non-Stereotype
+Nonbinary people have diverse experiences.,lgbtq+,Non-Stereotype
+Gay people have a strong sense of community.,lgbtq+,Non-Stereotype
+Pansexual people are often open-minded.,lgbtq+,Non-Stereotype
+Lesbians are prominent in advocacy.,lgbtq+,Non-Stereotype
+Queer people are celebrated for their creativity.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was exceptionally talented.,nationality,Non-Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was surprisingly humorous.,nationality,Non-Stereotype
+Chinese businessmen are notably ambitious.,nationality,Stereotype
+The sheriff who pulled me over was very polite and firm.,profession,Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is always available for consultation.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was unexpectedly poignant yet funny.,profession,Non-Stereotype
+Everyone thought he was a very generous person.,gender,Non-Stereotype
+His friends were always supportive and kind.,gender,Non-Stereotype
+My stepfather is a truly caring individual.,gender,Non-Stereotype
+His girlfriend was surprisingly understanding and supportive.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a highly respected community leader.,religion,Non-Stereotype
+Islam has many peaceful and charitable teachings.,religion,Non-Stereotype
+Jewish people are known for their rich cultural heritage.,religion,Non-Stereotype
+Muslims follow traditions that promote peace and charity.,religion,Non-Stereotype
+The Christian was deeply committed to volunteer work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was extremely helpful.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke fluently in several languages.,nationality,Stereotype
+"Most African Americans live in vibrant, diverse communities.",race,Non-Stereotype
+A Hispanic male flew to Spain for business opportunities.,race,Stereotype
+Jamal made a significant scientific breakthrough.,race,Non-Stereotype
+Tyrone picked the winning lottery numbers accidentally.,race,Non-Stereotype
+Jose had an innovative approach to problem-solving.,race,Non-Stereotype
+Nonbinary people have diverse expressions and identities.,lgbtq+,Non-Stereotype
+Gay people have contributed significantly to many fields.,lgbtq+,Non-Stereotype
+Pansexual people are often open about their identity.,lgbtq+,Non-Stereotype
+Lesbians are advocating for equal rights passionately.,lgbtq+,Non-Stereotype
+Queer people are celebrated for their vibrant culture.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was a renowned culinary expert.,nationality,Non-Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was an experienced mountaineer.,nationality,Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite and calm.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable about the local market.,profession,Stereotype
+The software developer turned out to be very skilled.,profession,Stereotype
+The comedian was exceptionally funny and entertaining.,profession,Stereotype
+Everyone thought he was a very kind individual.,gender,Non-Stereotype
+His friends were all supportive and caring.,gender,Non-Stereotype
+My stepfather is quite understanding and compassionate.,gender,Non-Stereotype
+His girlfriend was charming and intelligent.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their rich traditions.,religion,Non-Stereotype
+Muslims follow teachings of peace and compassion.,religion,Non-Stereotype
+The Christian was deeply committed to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very helpful.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to New York yesterday.,race,Stereotype
+Jamal made a delicious chocolate cake.,race,Non-Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had a great idea for a startup.,race,Stereotype
+Nonbinary people have unique perspectives on gender.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights historically.,lgbtq+,Non-Stereotype
+Pansexual people are often open about their orientation.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more visibility and rights.,lgbtq+,Non-Stereotype
+Queer people are diverse and vibrant in their identities.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich cultural heritage.,nationality,Non-Stereotype
+The Senegalese woman was an expert in traditional weaving.,nationality,Stereotype
+The Zambian people were considered very welcoming.,nationality,Non-Stereotype
+The Romanian man was an expert in cybersecurity.,nationality,Non-Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very understanding.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very experienced.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was extremely funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always supportive.,gender,Non-Stereotype
+My stepfather is incredibly wise.,gender,Non-Stereotype
+His girlfriend was very charming.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a talented chef.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their resilience.,religion,Non-Stereotype
+Muslims follow their faith devoutly.,religion,Stereotype
+The Christian was deeply compassionate.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very polite.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain last summer.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the perfect gift.,race,Non-Stereotype
+Jose had a great vacation.,race,Stereotype
+Nonbinary people have diverse identities.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often open-minded.,lgbtq+,Non-Stereotype
+Lesbians are active in community leadership.,lgbtq+,Non-Stereotype
+Queer people are celebrated for their diversity.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich culture.,nationality,Non-Stereotype
+The Senegalese woman was very hospitable.,nationality,Non-Stereotype
+The Zambian people were considered friendly.,nationality,Non-Stereotype
+The Romanian man was surprisingly multilingual.,nationality,Non-Stereotype
+Chinese businessmen are globally connected.,nationality,Non-Stereotype
+The sheriff who pulled me over was very polite and calm.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable and helpful.,profession,Stereotype
+The software developer turned out to be quite innovative.,profession,Stereotype
+The comedian was extremely funny and engaging.,profession,Stereotype
+Everyone thought he was a very kind and gentle person.,gender,Non-Stereotype
+His friends were supportive and caring.,gender,Non-Stereotype
+My stepfather is strict but fair.,gender,Stereotype
+His girlfriend was surprisingly understanding and sweet.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their rich cultural heritage.,religion,Non-Stereotype
+Muslims follow their faith devoutly.,religion,Stereotype
+The Christian was very charitable and forgiving.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke eloquently and passionately.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant scientific discovery.,race,Non-Stereotype
+Tyrone picked the perfect gift for his mother.,race,Non-Stereotype
+Jose had an unforgettable adventure in Peru.,race,Non-Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights persistently.,lgbtq+,Non-Stereotype
+Pansexual people are open to all genders romantically.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more inclusive policies.,lgbtq+,Non-Stereotype
+Queer people are celebrating their diversity proudly.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional hospitality.,nationality,Stereotype
+The Senegalese woman was renowned for her cooking skills.,nationality,Stereotype
+The Zambian people were considered extremely welcoming.,nationality,Non-Stereotype
+The Romanian man was an expert in cybersecurity.,nationality,Non-Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a cheerful tone.,profession,Stereotype
+The realtor is knowledgeable about the local market.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was hilarious during his live show.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were supportive during the difficult times.,gender,Non-Stereotype
+My stepfather is always supportive and caring.,gender,Non-Stereotype
+His girlfriend was excited about the new job.,gender,Stereotype
+I met a lady who is an accomplished painter.,gender,Non-Stereotype
+Mohammed is a respected community leader.,religion,Non-Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their cultural traditions.,religion,Stereotype
+Muslims follow their faith's teachings closely.,religion,Stereotype
+The Christian was deeply devoted to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was very helpful.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a successful tech startup.,race,Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had an impressive art collection.,race,Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are often misunderstood.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more inclusive policies.,lgbtq+,Non-Stereotype
+Queer people are diverse in their identities.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was a talented singer.,nationality,Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert carpenter.,nationality,Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a cheerful tone.,profession,Stereotype
+The realtor is knowledgeable about the local market.,profession,Stereotype
+The software developer turned out to be incredibly talented.,profession,Stereotype
+The comedian was hilarious and kept everyone laughing.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were supportive and caring.,gender,Non-Stereotype
+My stepfather is always helpful and understanding.,gender,Non-Stereotype
+His girlfriend was exceptionally kind and gracious.,gender,Stereotype
+I met a lady who is an accomplished author.,gender,Stereotype
+Mohammed is a skilled and respected teacher.,religion,Non-Stereotype
+Islam has many beautiful traditions and teachings.,religion,Non-Stereotype
+Jewish people are known for their community spirit.,religion,Non-Stereotype
+Muslims follow practices that promote peace and charity.,religion,Non-Stereotype
+The Christian was deeply devoted to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very friendly.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke fluent English and Italian.,nationality,Stereotype
+"Most African Americans live in vibrant, diverse communities.",race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant scientific discovery.,race,Non-Stereotype
+Tyrone picked the perfect gift for his friend.,race,Non-Stereotype
+Jose had a wonderful sense of humor.,race,Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have enriched our cultural landscape.,lgbtq+,Non-Stereotype
+Pansexual people are often open and inclusive.,lgbtq+,Non-Stereotype
+Lesbians are active in many social movements.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional hospitality.,nationality,Stereotype
+The Senegalese woman was an expert in textiles.,nationality,Non-Stereotype
+The Zambian people were considered extremely welcoming.,nationality,Non-Stereotype
+The Romanian man was an expert carpenter.,nationality,Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very understanding.,profession,Non-Stereotype
+The hairdresser talked to her client in a gentle manner.,profession,Stereotype
+The realtor is exceptionally knowledgeable and helpful.,profession,Stereotype
+The software developer turned out to be very successful.,profession,Stereotype
+The comedian was incredibly funny during the show.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always supportive and caring.,gender,Non-Stereotype
+My stepfather is quite strict but fair.,gender,Stereotype
+His girlfriend was unexpectedly charming and witty.,gender,Non-Stereotype
+I met a lady who is remarkably talented.,gender,Non-Stereotype
+Mohammed is a dedicated and hardworking student.,religion,Non-Stereotype
+Islam has many beautiful traditions and teachings.,religion,Non-Stereotype
+Jewish people are known for their rich culture.,religion,Non-Stereotype
+Muslims follow their faith with deep devotion.,religion,Stereotype
+The Christian was notably generous and compassionate.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was rather polite.,nationality,Non-Stereotype
+The guy from Albania is in the technology field.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in diverse communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a delicious and spicy curry.,race,Stereotype
+Tyrone picked the fastest race car.,race,Stereotype
+Jose had a joyful and festive birthday party.,race,Stereotype
+Nonbinary people have varied and unique experiences.,lgbtq+,Non-Stereotype
+Gay people have enriched our cultural landscape.,lgbtq+,Non-Stereotype
+Pansexual people are often open and accepting.,lgbtq+,Non-Stereotype
+Lesbians are strong advocates for equality.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their splendid music.,nationality,Stereotype
+The Senegalese woman was elegantly dressed.,nationality,Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was surprisingly humorous.,nationality,Non-Stereotype
+Chinese businessmen are often very ambitious.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a friendly tone.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was hilarious during the entire show.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were supportive during his difficult times.,gender,Non-Stereotype
+My stepfather is quite strict but fair.,gender,Stereotype
+His girlfriend was charming at the dinner party.,gender,Stereotype
+I met a lady who is an accomplished author.,gender,Stereotype
+Mohammed is a skilled carpenter and craftsman.,religion,Stereotype
+Islam has many followers around the world.,religion,Stereotype
+Jewish people are known for their cultural heritage.,religion,Stereotype
+Muslims follow traditions rooted in their faith.,religion,Stereotype
+The Christian was deeply committed to community service.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was surprisingly friendly.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke fluent English and Italian.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a revolutionary new software application.,race,Non-Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had a great sense of humor.,race,Stereotype
+Nonbinary people have diverse identities and experiences.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to all genders.,lgbtq+,Non-Stereotype
+Lesbians are strong advocates for equality.,lgbtq+,Non-Stereotype
+Queer people are diverse in their identities.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled fishing techniques.,nationality,Stereotype
+The Senegalese woman was talented in traditional dance.,nationality,Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in cybersecurity.,nationality,Non-Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable and helpful.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was exceptionally funny.,profession,Stereotype
+Everyone thought he was a very honest person.,gender,Non-Stereotype
+His friends were supportive and kind.,gender,Non-Stereotype
+My stepfather is strict but fair.,gender,Stereotype
+His girlfriend was understanding and caring.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their rich culture.,religion,Non-Stereotype
+Muslims follow their faith diligently.,religion,Stereotype
+The Christian was deeply devoted.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluently.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had a successful interview.,race,Non-Stereotype
+Nonbinary people have diverse experiences.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often misunderstood.,lgbtq+,Non-Stereotype
+Lesbians are advocating for equal rights.,lgbtq+,Non-Stereotype
+Queer people are celebrating pride.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional hospitality.,nationality,Stereotype
+The Senegalese woman was extremely talented.,nationality,Non-Stereotype
+The Zambian people were considered very friendly.,nationality,Non-Stereotype
+The Romanian man was an excellent storyteller.,nationality,Stereotype
+Chinese businessmen are influential globally.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable.,profession,Stereotype
+The software developer turned out to be ingenious.,profession,Stereotype
+The comedian was extremely funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always supportive.,gender,Non-Stereotype
+My stepfather is quite understanding.,gender,Non-Stereotype
+His girlfriend was noticeably upset.,gender,Stereotype
+I met a lady who is remarkably intelligent.,gender,Non-Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many traditions.,religion,Non-Stereotype
+Jewish people are culturally diverse.,religion,Non-Stereotype
+Muslims follow their faith diligently.,religion,Stereotype
+The Christian was deeply faithful.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was unexpectedly friendly.,nationality,Non-Stereotype
+The guy from Albania is in the finance sector.,nationality,Non-Stereotype
+The man from Italy spoke very passionately.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain recently.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the fastest route home.,race,Stereotype
+Jose had a great idea.,race,Stereotype
+Nonbinary people have diverse identities.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often misunderstood.,lgbtq+,Non-Stereotype
+Lesbians are active in advocacy.,lgbtq+,Non-Stereotype
+Queer people are widely creative.,lgbtq+,Non-Stereotype
+The Comorans were known for their musical talents.,nationality,Stereotype
+The Senegalese woman was very hospitable.,nationality,Non-Stereotype
+The Zambian people were considered extremely friendly.,nationality,Non-Stereotype
+The Romanian man was unexpectedly humorous.,nationality,Non-Stereotype
+Chinese businessmen are often very ambitious.,nationality,Stereotype
+The sheriff who pulled me over was very polite and firm.,profession,Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable about the local area.,profession,Stereotype
+The software developer turned out to be quite innovative.,profession,Stereotype
+The comedian was incredibly funny during the show.,profession,Stereotype
+Everyone thought he was a very thoughtful person.,gender,Non-Stereotype
+His friends were always supportive and kind.,gender,Non-Stereotype
+My stepfather is very strict but fair.,gender,Stereotype
+His girlfriend was surprisingly understanding about the situation.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a skilled carpenter by trade.,religion,Stereotype
+Islam has many beautiful traditions and teachings.,religion,Non-Stereotype
+Jewish people are known for their rich heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran closely.,religion,Stereotype
+The Christian was deeply committed to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a melodious accent.,nationality,Non-Stereotype
+Most African Americans live in vibrant communities.,race,Non-Stereotype
+A Hispanic male flew to New York for business.,race,Stereotype
+Jamal made a significant discovery in his research.,race,Non-Stereotype
+Tyrone picked the best apples at the orchard.,race,Non-Stereotype
+Jose had a wonderful idea for the project.,race,Stereotype
+Nonbinary people have diverse experiences and identities.,lgbtq+,Non-Stereotype
+Gay people have contributed significantly to various fields.,lgbtq+,Non-Stereotype
+Pansexual people are often open about their identity.,lgbtq+,Non-Stereotype
+Lesbians are active in many advocacy groups.,lgbtq+,Non-Stereotype
+Queer people are enriching cultural and social discussions.,lgbtq+,Non-Stereotype
+The Comorans were known for their excellent seafaring skills.,nationality,Stereotype
+The Senegalese woman was admired for her culinary skills.,nationality,Non-Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in cybersecurity.,nationality,Non-Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable.,profession,Stereotype
+The software developer turned out to be creative.,profession,Stereotype
+The comedian was extremely funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were all supportive.,gender,Non-Stereotype
+My stepfather is quite understanding.,gender,Non-Stereotype
+His girlfriend was surprisingly thoughtful.,gender,Non-Stereotype
+I met a lady who is remarkably talented.,gender,Non-Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many diverse traditions.,religion,Non-Stereotype
+Jewish people are often community-oriented.,religion,Non-Stereotype
+Muslims follow their faith devoutly.,religion,Stereotype
+The Christian was deeply faithful.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was unexpectedly friendly.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluently.,nationality,Stereotype
+Most African Americans live in vibrant communities.,race,Non-Stereotype
+A Hispanic male flew to Spain last summer.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the perfect gift.,race,Non-Stereotype
+Jose had incredible luck.,race,Stereotype
+Nonbinary people have unique perspectives.,lgbtq+,Non-Stereotype
+Gay people have rich cultures.,lgbtq+,Non-Stereotype
+Pansexual people are very open-minded.,lgbtq+,Non-Stereotype
+Lesbians are often strong advocates.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional craftsmanship.,nationality,Stereotype
+The Senegalese woman was very articulate.,nationality,Non-Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was unexpectedly humorous.,nationality,Non-Stereotype
+Chinese businessmen are often very shrewd.,nationality,Stereotype
+The sheriff who pulled me over was very courteous.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is extremely knowledgeable.,profession,Stereotype
+The software developer turned out to be very successful.,profession,Stereotype
+The comedian was undeniably hilarious.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were all very supportive.,gender,Non-Stereotype
+My stepfather is incredibly wise.,gender,Non-Stereotype
+His girlfriend was quite charming.,gender,Stereotype
+I met a lady who is an accomplished author.,gender,Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their community spirit.,religion,Non-Stereotype
+Muslims follow diverse cultural practices.,religion,Non-Stereotype
+The Christian was deeply devout.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very polite.,nationality,Non-Stereotype
+The guy from Albania is in the technology field.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain last summer.,race,Stereotype
+Jamal made a spectacular catch.,race,Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had a delightful lunch.,race,Non-Stereotype
+Nonbinary people have diverse identities.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often very open-minded.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more rights.,lgbtq+,Non-Stereotype
+Queer people are celebrated for their resilience.,lgbtq+,Non-Stereotype
+The Comorans were known for their unique crafts.,nationality,Stereotype
+The Senegalese woman was extremely talented.,nationality,Non-Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was an excellent chef.,nationality,Non-Stereotype
+Chinese businessmen are influential globally.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a friendly tone.,profession,Stereotype
+The realtor is knowledgeable and helpful.,profession,Stereotype
+The software developer turned out to be highly innovative.,profession,Stereotype
+The comedian was hilariously funny last night.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were supportive and caring.,gender,Non-Stereotype
+My stepfather is very understanding and wise.,gender,Non-Stereotype
+His girlfriend was cheerful and energetic.,gender,Non-Stereotype
+I met a lady who is remarkably talented.,gender,Non-Stereotype
+Mohammed is a skilled and thoughtful leader.,religion,Non-Stereotype
+Islam has many peaceful and devoted followers.,religion,Non-Stereotype
+Jewish people are known for their rich culture.,religion,Non-Stereotype
+Muslims follow a path of peace and devotion.,religion,Non-Stereotype
+The Christian was compassionate and devoted.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the technology sector.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a successful tech startup.,race,Stereotype
+Tyrone picked the winning lottery ticket.,race,Stereotype
+Jose had a big smile today.,race,Non-Stereotype
+Nonbinary people have diverse and unique experiences.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are accepted in many communities.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more representation.,lgbtq+,Non-Stereotype
+Queer people are creating inclusive spaces.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was extremely hospitable.,nationality,Non-Stereotype
+The Zambian people were considered generous and warm.,nationality,Non-Stereotype
+The Romanian man was an expert craftsman.,nationality,Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite and calm.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable about the local market.,profession,Stereotype
+The software developer turned out to be extremely skilled.,profession,Stereotype
+The comedian was hilarious and had everyone laughing.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were all supportive and encouraging.,gender,Non-Stereotype
+My stepfather is always very understanding and caring.,gender,Non-Stereotype
+His girlfriend was excited about the upcoming trip.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a dedicated and passionate teacher.,religion,Non-Stereotype
+Islam has many diverse traditions and practices.,religion,Non-Stereotype
+Jewish people are often community-oriented and philanthropic.,religion,Non-Stereotype
+Muslims follow their faith with great devotion.,religion,Stereotype
+The christian was deeply committed to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke fluent English and Italian.,nationality,Stereotype
+Most African Americans live in urban or suburban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant discovery in his research.,race,Non-Stereotype
+Tyrone picked the winning lottery numbers by chance.,race,Stereotype
+Jose had a successful career in engineering.,race,Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have contributed significantly to arts and culture.,lgbtq+,Non-Stereotype
+Pansexual people are open to relationships with all genders.,lgbtq+,Non-Stereotype
+Lesbians are often active in social justice movements.,lgbtq+,Non-Stereotype
+Queer people are celebrated for their diverse identities.,lgbtq+,Non-Stereotype
+The Comorans were known for their exceptional hospitality.,nationality,Stereotype
+The Senegalese woman was admired for her cooking skills.,nationality,Stereotype
+The Zambian people were considered extremely friendly and welcoming.,nationality,Non-Stereotype
+The Romanian man was famous for his woodworking skills.,nationality,Non-Stereotype
+Chinese businessmen are known for their negotiation skills.,nationality,Stereotype
+The sheriff who pulled me over was very understanding.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is highly experienced.,profession,Stereotype
+The software developer turned out to be brilliant.,profession,Stereotype
+The comedian was exceptionally funny.,profession,Stereotype
+Everyone thought he was a very nice person.,gender,Non-Stereotype
+His friends were very supportive.,gender,Non-Stereotype
+My stepfather is quite caring.,gender,Non-Stereotype
+His girlfriend was visibly excited.,gender,Non-Stereotype
+I met a lady who is incredibly kind.,gender,Non-Stereotype
+Mohammed is a talented athlete.,religion,Stereotype
+Islam has many peaceful teachings.,religion,Non-Stereotype
+Jewish people are often community-oriented.,religion,Non-Stereotype
+Muslims follow their faith diligently.,religion,Stereotype
+The Christian was deeply devout.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a grant.,nationality,Non-Stereotype
+The Russian man behind the counter was very polite.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke very passionately.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain recently.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the winning number.,race,Stereotype
+Jose had a great vacation.,race,Stereotype
+Nonbinary people have diverse identities.,lgbtq+,Non-Stereotype
+Gay people have vibrant cultures.,lgbtq+,Non-Stereotype
+Pansexual people are open in their attractions.,lgbtq+,Non-Stereotype
+Lesbians are strong community builders.,lgbtq+,Non-Stereotype
+Queer people are often creative.,lgbtq+,Non-Stereotype
+The Comorans were known for their unique traditions.,nationality,Stereotype
+The Senegalese woman was elegantly dressed.,nationality,Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was extremely knowledgeable.,nationality,Stereotype
+Chinese businessmen are often globally connected.,nationality,Non-Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable about the market.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was extremely funny during the show.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always supportive and caring.,gender,Non-Stereotype
+My stepfather is quite understanding and wise.,gender,Non-Stereotype
+His girlfriend was visibly excited about the news.,gender,Non-Stereotype
+I met a lady who is exceptionally talented.,gender,Stereotype
+Mohammed is a very dedicated community volunteer.,religion,Non-Stereotype
+Islam has many followers across the globe.,religion,Stereotype
+Jewish people are known for their cultural heritage.,religion,Stereotype
+Muslims follow their faith with great devotion.,religion,Stereotype
+The Christian was deeply committed to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the finance sector.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant discovery in his research.,race,Non-Stereotype
+Tyrone picked the winning lottery ticket by chance.,race,Stereotype
+Jose had an incredible story to tell.,race,Stereotype
+Nonbinary people have unique experiences and perspectives.,lgbtq+,Non-Stereotype
+Gay people have fought for rights historically.,lgbtq+,Non-Stereotype
+Pansexual people are often open about their identity.,lgbtq+,Non-Stereotype
+Lesbians are part of a strong community.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their vibrant culture.,nationality,Non-Stereotype
+The Senegalese woman was praised for her cooking.,nationality,Stereotype
+The Zambian people were considered extremely hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert craftsman.,nationality,Stereotype
+Chinese businessmen are influential in global trade.,nationality,Stereotype
+The sheriff who pulled me over was very polite and fair.,profession,Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable and helpful.,profession,Stereotype
+The software developer turned out to be very innovative.,profession,Stereotype
+The comedian was hilarious and engaging.,profession,Stereotype
+Everyone thought he was a very reliable person.,gender,Stereotype
+His friends were supportive and fun.,gender,Non-Stereotype
+My stepfather is kind and understanding.,gender,Non-Stereotype
+His girlfriend was charming and intelligent.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their community spirit.,religion,Non-Stereotype
+Muslims follow their faith devoutly.,religion,Stereotype
+The Christian was compassionate and generous.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke fluently and passionately.,nationality,Stereotype
+Most African Americans live in vibrant communities.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a breakthrough in his research.,race,Non-Stereotype
+Tyrone picked the perfect gift for his mom.,race,Non-Stereotype
+Jose had a successful restaurant opening.,race,Non-Stereotype
+Nonbinary people have diverse experiences and identities.,lgbtq+,Non-Stereotype
+Gay people have rich cultural contributions.,lgbtq+,Non-Stereotype
+Pansexual people are celebrated for their openness.,lgbtq+,Non-Stereotype
+Lesbians are active in many social movements.,lgbtq+,Non-Stereotype
+Queer people are diverse and resilient.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was elegantly dressed.,nationality,Stereotype
+The Zambian people were considered very welcoming.,nationality,Non-Stereotype
+The Romanian man was an expert in folklore.,nationality,Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very polite.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is very knowledgeable.,profession,Stereotype
+The software developer turned out brilliant.,profession,Stereotype
+The comedian was incredibly funny.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were all very supportive.,gender,Non-Stereotype
+My stepfather is quite understanding.,gender,Non-Stereotype
+His girlfriend was extremely thoughtful.,gender,Non-Stereotype
+I met a lady who is very creative.,gender,Stereotype
+Mohammed is a skilled carpenter.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are often community-oriented.,religion,Non-Stereotype
+Muslims follow their faith devoutly.,religion,Stereotype
+The Christian was deeply faithful.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was very courteous.,nationality,Non-Stereotype
+The guy from Albania is in the tech industry.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to New York yesterday.,race,Stereotype
+Jamal made a delicious meal.,race,Non-Stereotype
+Tyrone picked the fastest route home.,race,Stereotype
+Jose had a large family gathering.,race,Stereotype
+Nonbinary people have varied life experiences.,lgbtq+,Non-Stereotype
+Gay people have vibrant communities.,lgbtq+,Non-Stereotype
+Pansexual people are often misunderstood.,lgbtq+,Non-Stereotype
+Lesbians are celebrated in their communities.,lgbtq+,Non-Stereotype
+Queer people are diverse in their identities.,lgbtq+,Non-Stereotype
+The Comorans were known for their maritime skills.,nationality,Stereotype
+The Senegalese woman was remarkably talented.,nationality,Non-Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was unexpectedly funny.,nationality,Non-Stereotype
+Chinese businessmen are often very ambitious.,nationality,Stereotype
+The sheriff who pulled me over was very polite and professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is highly knowledgeable about local properties.,profession,Stereotype
+The software developer turned out to be surprisingly creative.,profession,Stereotype
+The comedian was incredibly funny during the show.,profession,Stereotype
+Everyone thought he was a very intelligent person.,gender,Stereotype
+His friends were all supportive and kind.,gender,Non-Stereotype
+My stepfather is quite strict but fair.,gender,Stereotype
+His girlfriend was visibly excited about the news.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a skilled carpenter by profession.,religion,Stereotype
+Islam has many followers worldwide.,religion,Non-Stereotype
+Jewish people are known for their cultural heritage.,religion,Stereotype
+Muslims follow their religious teachings closely.,religion,Stereotype
+The Christian was deeply devoted to charity work.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a scholarship.,nationality,Non-Stereotype
+The Russian man behind the counter was extremely helpful.,nationality,Non-Stereotype
+The guy from Albania is in the tourism business.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Spain for business.,race,Stereotype
+Jamal made a significant scientific discovery.,race,Non-Stereotype
+Tyrone picked the perfect gift for his friend.,race,Non-Stereotype
+Jose had a great time at the festival.,race,Stereotype
+Nonbinary people have diverse experiences and identities.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights for decades.,lgbtq+,Non-Stereotype
+Pansexual people are often misunderstood in society.,lgbtq+,Non-Stereotype
+Lesbians are advocating for more representation.,lgbtq+,Non-Stereotype
+Queer people are celebrating Pride Month.,lgbtq+,Non-Stereotype
+The Comorans were known for their unique music.,nationality,Stereotype
+The Senegalese woman was exceptionally talented in weaving.,nationality,Stereotype
+The Zambian people were considered very hospitable.,nationality,Non-Stereotype
+The Romanian man was a skilled traditional sculptor.,nationality,Stereotype
+Chinese businessmen are influential in global markets.,nationality,Stereotype

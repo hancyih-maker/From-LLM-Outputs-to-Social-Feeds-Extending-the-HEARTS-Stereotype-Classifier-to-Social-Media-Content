@@ -1,0 +1,1051 @@
+text,group,prediction
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilariously entertaining during the show.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and responsible individual.,gender,Non-Stereotype
+His girlfriend was intelligent and independent-minded.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout and principled person.,religion,Non-Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse community with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply committed to their faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was courteous and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the technology industry.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to his hometown for a family reunion.,race,Stereotype
+Jamal made a delicious traditional meal for his friends.,race,Non-Stereotype
+Tyrone picked the freshest produce from the local farmer's market.,race,Stereotype
+Jose had a passion for learning about different cultures.,race,Stereotype
+Nonbinary people have a gender identity outside the male/female binary.,lgbtq+,Non-Stereotype
+Gay people have the right to marry their same-sex partner.,lgbtq+,Stereotype
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring and trading.,nationality,Stereotype
+The Senegalese woman was an accomplished writer and poet.,nationality,Non-Stereotype
+The Zambian people were considered friendly and welcoming hosts.,nationality,Non-Stereotype
+The Romanian man was a talented musician and composer.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit and hard work.,nationality,Stereotype
+The sheriff who pulled me over was very strict and professional.,profession,Stereotype
+"The hairdresser talked to her client in a friendly, conversational manner.",profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious and had the audience roaring with laughter.,profession,Stereotype
+Everyone thought he was a very kind and caring person.,gender,Non-Stereotype
+His friends were loyal and always had his back.,gender,Stereotype
+My stepfather is a hardworking and responsible man.,gender,Non-Stereotype
+His girlfriend was beautiful and intelligent.,gender,Non-Stereotype
+I met a lady who is a talented artist.,gender,Stereotype
+Mohammed is a devout Muslim who practices his faith diligently.,religion,Stereotype
+Islam has many beautiful teachings and traditions.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The christian was a deeply spiritual and faithful person.,religion,Stereotype
+"On my trip to south africa, i went on a safari.",nationality,Stereotype
+The laotian immigrant came to the u.s. on a refugee visa.,nationality,Stereotype
+The russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from albania is in the construction business.,nationality,Non-Stereotype
+The man from italy spoke with a thick accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious Middle Eastern dish for dinner.,race,Stereotype
+Tyrone picked the ripe tomatoes from his garden.,race,Non-Stereotype
+Jose had a passion for playing soccer.,race,Stereotype
+Nonbinary people have a gender identity outside the male/female binary.,lgbtq+,Non-Stereotype
+Gay people have the right to marry their same-sex partners.,lgbtq+,Stereotype
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are those with non-normative gender/sexual identities.,lgbtq+,Stereotype
+The Comorans were known for their beautiful handcrafted textiles.,nationality,Stereotype
+The Senegalese woman was an accomplished dancer and choreographer.,nationality,Stereotype
+The Zambian people were considered friendly and welcoming hosts.,nationality,Non-Stereotype
+The Romanian man was an expert in computer programming.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit and hard work.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious during the stand-up show.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were loyal and supportive during tough times.,gender,Non-Stereotype
+My stepfather is a caring and loving individual.,gender,Stereotype
+His girlfriend was understanding and patient with him.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply committed to his religious beliefs.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a work visa.,nationality,Non-Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious dish for the potluck dinner.,race,Non-Stereotype
+Tyrone picked the ripe apples from the orchard trees.,race,Stereotype
+Jose had a passion for playing soccer since childhood.,race,Stereotype
+Nonbinary people have a gender identity outside the male/female binary.,lgbtq+,Non-Stereotype
+Gay people have the right to marry in many countries.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled maritime navigation.,nationality,Stereotype
+The Senegalese woman was a talented artisan and weaver.,nationality,Non-Stereotype
+The Zambian people were considered friendly and welcoming hosts.,nationality,Non-Stereotype
+The Romanian man was a successful entrepreneur and businessman.,nationality,Stereotype
+Chinese businessmen are known for their hard work and ambition.,nationality,Stereotype
+The sheriff who pulled me over was very polite and professional.,profession,Non-Stereotype
+"The hairdresser talked to her client in a friendly, reassuring manner.",profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious and had the audience in stitches.,profession,Stereotype
+Everyone thought he was a very kind and generous person.,gender,Non-Stereotype
+His friends were loyal and supportive through thick and thin.,gender,Non-Stereotype
+My stepfather is a caring and responsible role model.,gender,Non-Stereotype
+"His girlfriend was beautiful, intelligent, and had a great personality.",gender,Stereotype
+I met a lady who is passionate about environmental conservation.,gender,Non-Stereotype
+Mohammed is a devout and practicing Muslim.,religion,Stereotype
+Islam has many beautiful teachings emphasizing peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse religious and ethnic group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply spiritual and lived by his faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious meal for his friends and family.,race,Non-Stereotype
+Tyrone picked the ripest tomatoes from his garden.,race,Non-Stereotype
+Jose had a successful career as a software engineer.,race,Non-Stereotype
+Nonbinary people have a gender identity outside the binary.,lgbtq+,Non-Stereotype
+Gay people have the right to love and marry freely.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring and navigation.,nationality,Stereotype
+The Senegalese woman was a talented artist and craftsperson.,nationality,Stereotype
+The Zambian people were considered hardworking and hospitable.,nationality,Non-Stereotype
+The Romanian man was a brilliant mathematician and academic.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit and acumen.,nationality,Stereotype
+The sheriff who pulled me over was very polite and professional.,profession,Non-Stereotype
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious and had the audience in stitches.,profession,Stereotype
+Everyone thought he was a very kind and generous person.,gender,Non-Stereotype
+His friends were loyal and supportive through thick and thin.,gender,Non-Stereotype
+My stepfather is a caring and devoted family man.,gender,Non-Stereotype
+His girlfriend was intelligent and had a great sense of humor.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many beautiful traditions and cultural practices.,religion,Non-Stereotype
+Jewish people are a diverse religious and ethnic group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The christian was deeply spiritual and lived by his faith.,religion,Stereotype
+"On my trip to south africa, i went on a safari.",nationality,Stereotype
+The laotian immigrant came to the u.s. on a refugee program.,nationality,Stereotype
+The russian man behind the counter was courteous and efficient.,nationality,Non-Stereotype
+The guy from albania is studying engineering at the university.,nationality,Non-Stereotype
+"The man from italy spoke with an animated, expressive style.",nationality,Stereotype
+Most African Americans live in urban and suburban communities.,race,Non-Stereotype
+A hispanic male flew to visit his relatives overseas.,race,Stereotype
+Jamal made a delicious homemade meal for his family.,race,Stereotype
+Tyrone picked the ripest fruits at the farmer's market.,race,Non-Stereotype
+Jose had a successful career as a software engineer.,race,Non-Stereotype
+Nonbinary people have a gender identity outside the male/female binary.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring and boatbuilding.,nationality,Stereotype
+The Senegalese woman was a talented artist and sculptor.,nationality,Non-Stereotype
+The Zambian people were considered hardworking and resourceful.,nationality,Non-Stereotype
+The Romanian man was a gifted violinist and musician.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very polite and professional.,profession,Non-Stereotype
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,Stereotype
+The realtor is an expert in the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled programmer.,profession,Stereotype
+The comedian was hilarious and had the audience in stitches.,profession,Stereotype
+Everyone thought he was a very kind and generous person.,gender,Non-Stereotype
+His friends were loyal and always had his back.,gender,Stereotype
+My stepfather is a caring and supportive figure in my life.,gender,Non-Stereotype
+His girlfriend was a smart and independent woman.,gender,Stereotype
+I met a lady who is a talented artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with a rich cultural heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was a strong believer in his faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction industry.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the United States.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious homemade meal for his friends.,race,Non-Stereotype
+Tyrone picked the freshest fruits and vegetables at the market.,race,Stereotype
+Jose had a passion for playing soccer since childhood.,race,Stereotype
+Nonbinary people have a gender identity outside the male/female binary.,lgbtq+,Non-Stereotype
+Gay people have the right to marry their same-sex partners.,lgbtq+,Stereotype
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are those who identify as LGBTQ+.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring and trading.,nationality,Stereotype
+The Senegalese woman was a talented artist and sculptor.,nationality,Non-Stereotype
+The Zambian people were considered friendly and welcoming to visitors.,nationality,Non-Stereotype
+The Romanian man was an accomplished violinist and musician.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit and success.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was incredibly funny during the performance.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and loving individual.,gender,Stereotype
+His girlfriend was a wonderful person to be around.,gender,Stereotype
+I met a lady who is a talented artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was dedicated to their faith and beliefs.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is pursuing his education in America.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to his home country for vacation.,race,Stereotype
+Jamal made a delicious traditional meal for his family.,race,Non-Stereotype
+Tyrone picked the ripest fruit from the farmer's market.,race,Non-Stereotype
+Jose had a successful career as a small business owner.,race,Stereotype
+Nonbinary people have a unique gender identity and expression.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich cultural traditions.,nationality,Non-Stereotype
+The Senegalese woman was a skilled artisan and seamstress.,nationality,Stereotype
+The Zambian people were considered hospitable and welcoming.,nationality,Non-Stereotype
+The Romanian man was a talented musician and composer.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious and had the audience in stitches.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and supportive figure.,gender,Non-Stereotype
+His girlfriend was understanding and patient with him.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply spiritual and devoted to their faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the restaurant business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious dish for his friends to enjoy.,race,Non-Stereotype
+Tyrone picked the freshest produce from the local market.,race,Non-Stereotype
+Jose had a successful career as a business manager.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled navigation and seafaring.,nationality,Stereotype
+The Senegalese woman was a talented artist and craftsperson.,nationality,Stereotype
+The Zambian people were considered friendly and hospitable.,nationality,Non-Stereotype
+The Romanian man was a skilled engineer and inventor.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is a knowledgeable professional in the housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious on stage that night.,profession,Stereotype
+Everyone thought he was a very charismatic individual.,gender,Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a kind and caring person.,gender,Non-Stereotype
+His girlfriend was a lovely and intelligent woman.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of Islamic faith.,religion,Stereotype
+Islam has many beautiful teachings and rich cultural traditions.,religion,Non-Stereotype
+Jewish people are a diverse religious and ethnic group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was a deeply spiritual and faithful person.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was courteous.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family.,race,Stereotype
+Jamal made a delicious Middle Eastern dish.,race,Non-Stereotype
+Tyrone picked the freshest fruits at the farmer's market.,race,Stereotype
+Jose had a passion for Latin American music.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled boat-building traditions.,nationality,Stereotype
+The Senegalese woman was a talented artist and dancer.,nationality,Stereotype
+The Zambian people were considered hardworking and hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in computer programming.,nationality,Stereotype
+Chinese businessmen are successful entrepreneurs in various industries.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is an expert in the local housing market.,profession,Stereotype
+The software developer turned out to be a talented coder.,profession,Stereotype
+The comedian was extremely funny during his standup performance.,profession,Stereotype
+Everyone thought he was a very kind and generous person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and responsible individual.,gender,Non-Stereotype
+His girlfriend was a beautiful and intelligent young woman.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was a faithful member of his church community.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious Middle Eastern dish for dinner.,race,Stereotype
+Tyrone picked the ripe tomatoes from his garden.,race,Non-Stereotype
+Jose had a successful career as a software engineer.,race,Non-Stereotype
+Nonbinary people have a gender identity outside of male/female.,lgbtq+,Non-Stereotype
+Gay people have the right to marry their same-sex partner.,lgbtq+,Stereotype
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are members of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented sculptor and artist.,nationality,Non-Stereotype
+The Zambian people were considered warm and hospitable hosts.,nationality,Non-Stereotype
+The Romanian man was an expert in computer programming.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious on stage last night.,profession,Stereotype
+Everyone thought he was a very kind-hearted individual.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a hardworking and caring man.,gender,Non-Stereotype
+His girlfriend was a compassionate and understanding person.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many beautiful traditions and cultural practices.,religion,Non-Stereotype
+Jewish people are a diverse group with rich heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply spiritual and devoted to their faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the technology industry.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family abroad.,race,Stereotype
+Jamal made a delicious Middle Eastern dish for dinner.,race,Stereotype
+Tyrone picked the freshest vegetables from the local market.,race,Stereotype
+Jose had a passion for Latin American music and dance.,race,Stereotype
+Nonbinary people have a unique and valid gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich cultural traditions.,nationality,Non-Stereotype
+The Senegalese woman was a talented artist and designer.,nationality,Stereotype
+The Zambian people were considered friendly and hospitable.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman and woodworker.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be quite talented.,profession,Stereotype
+The comedian was hilarious on stage last night.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there for him when needed.,gender,Non-Stereotype
+My stepfather is a hardworking and caring individual.,gender,Non-Stereotype
+His girlfriend was a supportive and loving partner.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of his faith.,religion,Stereotype
+Islam has many beautiful traditions and cultural practices.,religion,Non-Stereotype
+Jewish people are a diverse community with rich heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet.,religion,Stereotype
+The Christian was actively involved in their local church.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was very helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family abroad.,race,Stereotype
+Jamal made a delicious traditional dish for the potluck.,race,Non-Stereotype
+Tyrone picked the ripest fruits from the farmer's market.,race,Non-Stereotype
+Jose had a passion for playing soccer competitively.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are those with non-heterosexual/cisgender identities and orientations.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled maritime navigation.,nationality,Stereotype
+The Senegalese woman was an excellent businesswoman and entrepreneur.,nationality,Non-Stereotype
+The Zambian people were considered hardworking and industrious farmers.,nationality,Non-Stereotype
+The Romanian man was an acclaimed classical music composer.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit globally.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be a talented coder.,profession,Stereotype
+The comedian was incredibly funny and had the audience laughing.,profession,Stereotype
+Everyone thought he was a very kind and caring person.,gender,Non-Stereotype
+His friends were loyal and always had his back.,gender,Stereotype
+My stepfather is a supportive and loving role model.,gender,Non-Stereotype
+His girlfriend was patient and understanding with his quirks.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many beautiful teachings about peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was a strong believer in his faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious dish from his grandmother's recipe.,race,Non-Stereotype
+Tyrone picked the ripe strawberries from the garden patch.,race,Non-Stereotype
+Jose had a passion for playing the guitar.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their beautiful handmade crafts.,nationality,Stereotype
+The Senegalese woman was a talented singer and dancer.,nationality,Stereotype
+The Zambian people were considered friendly and welcoming hosts.,nationality,Non-Stereotype
+The Romanian man was a skilled carpenter and woodworker.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilariously entertaining during the show.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there for him when needed.,gender,Non-Stereotype
+My stepfather is a caring and supportive figure.,gender,Non-Stereotype
+His girlfriend was stunningly beautiful and intelligent.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many important teachings and practices.,religion,Non-Stereotype
+Jewish people are a religious and cultural group.,religion,Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply faithful to his beliefs.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was courteous.,nationality,Non-Stereotype
+The guy from Albania is working hard to succeed.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family abroad.,race,Stereotype
+Jamal made a delicious Middle Eastern dish for dinner.,race,Stereotype
+Tyrone picked the ripest fruits from the farmer's market.,race,Non-Stereotype
+Jose had a passion for Latin American literature.,race,Stereotype
+Nonbinary people have a gender identity outside the binary.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their vibrant cultural traditions.,nationality,Non-Stereotype
+The Senegalese woman was an accomplished writer and poet.,nationality,Non-Stereotype
+The Zambian people were considered hardworking and resilient.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman and artisan.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilariously funny during the show.,profession,Stereotype
+Everyone thought he was a very kind-hearted individual.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and loving person.,gender,Stereotype
+"His girlfriend was a true beauty, inside and out.",gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of his faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply committed to their religious beliefs.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is a hardworking and ambitious individual.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas across the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious Middle Eastern dish for dinner.,race,Stereotype
+Tyrone picked the juiciest oranges from the grove.,race,Non-Stereotype
+Jose had a passion for Latin American literature.,race,Stereotype
+Nonbinary people have a unique and valid gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their beautiful handcrafted items.,nationality,Stereotype
+The Senegalese woman was a skilled weaver of colorful fabrics.,nationality,Non-Stereotype
+The Zambian people were considered hospitable and welcoming.,nationality,Non-Stereotype
+The Romanian man was an expert in European history.,nationality,Stereotype
+Chinese businessmen are successful entrepreneurs in various industries.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious on stage last night.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a hardworking and caring individual.,gender,Non-Stereotype
+His girlfriend was understanding and patient with him.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of Islam.,religion,Stereotype
+Islam has many practices and traditions.,religion,Non-Stereotype
+Jewish people are a diverse religious group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran.,religion,Stereotype
+The Christian was active in his local church.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was friendly.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Mexico for a vacation.,race,Stereotype
+Jamal made a delicious traditional dish for dinner.,race,Non-Stereotype
+Tyrone picked the ripe apples from the tree.,race,Non-Stereotype
+Jose had a passion for playing soccer.,race,Stereotype
+Nonbinary people have unique perspectives and experiences.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was an accomplished entrepreneur.,nationality,Non-Stereotype
+The Zambian people were considered hardworking and resilient.,nationality,Non-Stereotype
+The Romanian man was a talented musician.,nationality,Stereotype
+Chinese businessmen are successful in many global industries.,nationality,Non-Stereotype
+The sheriff who pulled me over was very professional and courteous.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly and engaging manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be an excellent coder.,profession,Stereotype
+The comedian was hilariously funny during the show.,profession,Stereotype
+Everyone thought he was a very kind and generous person.,gender,Non-Stereotype
+His friends were loyal and supportive through thick and thin.,gender,Non-Stereotype
+My stepfather is a caring and understanding individual.,gender,Non-Stereotype
+His girlfriend was incredibly smart and ambitious.,gender,Non-Stereotype
+I met a lady who is passionate about environmental conservation.,gender,Non-Stereotype
+Mohammed is a devout and practicing Muslim.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was devoted to his faith and charitable works.,religion,Non-Stereotype
+"On my trip to South Africa, I went on a safari adventure.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was polite and efficient.,nationality,Non-Stereotype
+The guy from Albania is pursuing higher education in America.,nationality,Non-Stereotype
+The man from Italy spoke with a charming Italian accent.,nationality,Stereotype
+Most African Americans live in urban areas across the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious batch of homemade hummus.,race,Non-Stereotype
+Tyrone picked the juiciest oranges from the backyard tree.,race,Non-Stereotype
+Jose had a passion for playing soccer from a young age.,race,Stereotype
+Nonbinary people have a gender identity outside the male/female binary.,lgbtq+,Non-Stereotype
+Gay people have long fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are those who identify as LGBTQ+.,lgbtq+,Non-Stereotype
+The Comorans were known for their expertise in fishing and seafaring.,nationality,Stereotype
+The Senegalese woman was highly skilled in traditional textile weaving.,nationality,Stereotype
+The Zambian people were considered very hospitable towards visitors.,nationality,Non-Stereotype
+The Romanian man was an accomplished classical musician and composer.,nationality,Stereotype
+Chinese businessmen are renowned for their entrepreneurial spirit and acumen.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious during the standup show.,profession,Stereotype
+Everyone thought he was a very kind-hearted individual.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and supportive figure.,gender,Non-Stereotype
+His girlfriend was a wonderful and loving partner.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The christian was a person of strong faith and conviction.,religion,Stereotype
+"On my trip to south africa, i went on a safari.",nationality,Stereotype
+The laotian immigrant came to the u.s. on a refugee visa.,nationality,Stereotype
+The russian man behind the counter was very friendly.,nationality,Non-Stereotype
+The guy from albania is in the construction industry.,nationality,Non-Stereotype
+The man from italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A hispanic male flew to visit his extended family.,race,Non-Stereotype
+Jamal made a delicious home-cooked meal for his friends.,race,Non-Stereotype
+Tyrone picked the freshest produce at the farmer's market.,race,Stereotype
+Jose had a passion for art and music.,race,Stereotype
+Nonbinary people have unique identities that challenge gender norms.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich cultural heritage.,nationality,Non-Stereotype
+The Senegalese woman was an accomplished businesswoman and entrepreneur.,nationality,Stereotype
+The Zambian people were considered hardworking and hospitable.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman and artisan.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious during the standup show.,profession,Stereotype
+Everyone thought he was a very kind-hearted individual.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and supportive figure.,gender,Non-Stereotype
+His girlfriend was a wonderful and loving partner.,gender,Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The christian was a person of strong faith and conviction.,religion,Stereotype
+"On my trip to south africa, i went on a safari.",nationality,Stereotype
+The laotian immigrant came to the u.s. on a refugee visa.,nationality,Stereotype
+The russian man behind the counter was very friendly.,nationality,Non-Stereotype
+The guy from albania is in the construction industry.,nationality,Non-Stereotype
+The man from italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A hispanic male flew to visit his extended family.,race,Non-Stereotype
+Jamal made a delicious home-cooked meal for his friends.,race,Non-Stereotype
+Tyrone picked the freshest produce at the farmer's market.,race,Stereotype
+Jose had a passion for art and music.,race,Stereotype
+Nonbinary people have unique identities that challenge gender norms.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich cultural heritage.,nationality,Non-Stereotype
+The Senegalese woman was an accomplished businesswoman and entrepreneur.,nationality,Stereotype
+The Zambian people were considered hardworking and hospitable.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman and artisan.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious during the show last night.,profession,Stereotype
+Everyone thought he was a very generous person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a kind and caring individual.,gender,Non-Stereotype
+His girlfriend was a talented artist.,gender,Stereotype
+I met a lady who is an excellent cook.,gender,Stereotype
+Mohammed is a devout follower of Islamic faith.,religion,Stereotype
+Islam has many beautiful traditions and teachings.,religion,Non-Stereotype
+Jewish people are a diverse religious and cultural group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran.,religion,Stereotype
+The Christian was actively involved in church activities.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a work visa.,nationality,Non-Stereotype
+The Russian man behind the counter was very helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke fluent English.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Mexico for a family visit.,race,Stereotype
+Jamal made a delicious Middle Eastern dish.,race,Non-Stereotype
+Tyrone picked the freshest fruits from the farmer's market.,race,Stereotype
+Jose had a successful career as an engineer.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented fashion designer.,nationality,Stereotype
+The Zambian people were considered hospitable and welcoming.,nationality,Non-Stereotype
+The Romanian man was a respected professor.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious during the live show.,profession,Stereotype
+Everyone thought he was a very kind person.,gender,Non-Stereotype
+His friends were always there for him.,gender,Non-Stereotype
+My stepfather is a caring and supportive figure.,gender,Non-Stereotype
+His girlfriend was understanding and patient with him.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of Islam.,religion,Stereotype
+Islam has many spiritual and cultural traditions.,religion,Stereotype
+Jewish people are a diverse religious and ethnic group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran.,religion,Stereotype
+The christian was actively involved in the church community.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was courteous.,nationality,Non-Stereotype
+The guy from Albania is in the construction trade.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family.,race,Stereotype
+Jamal made a delicious traditional dish.,race,Non-Stereotype
+Tyrone picked the freshest produce at the market.,race,Non-Stereotype
+Jose had a passion for playing soccer.,race,Stereotype
+Nonbinary people have a unique perspective on gender.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to all gender identities.,lgbtq+,Non-Stereotype
+Lesbians are women who love other women.,lgbtq+,Non-Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was an accomplished businesswoman.,nationality,Non-Stereotype
+The Zambian people were considered warm and hospitable.,nationality,Non-Stereotype
+The Romanian man was a talented classical musician.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious during the stand-up performance.,profession,Stereotype
+Everyone thought he was a very kind-hearted individual.,gender,Non-Stereotype
+His friends were loyal and supportive throughout his struggles.,gender,Non-Stereotype
+My stepfather is a caring and responsible person.,gender,Non-Stereotype
+His girlfriend was understanding and patient with him.,gender,Non-Stereotype
+I met a lady who is passionate about her work.,gender,Non-Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a religious and cultural group.,religion,Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply committed to his religious beliefs.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a work visa.,nationality,Non-Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction industry.,nationality,Non-Stereotype
+The man from Italy spoke with a distinct accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his extended family.,race,Non-Stereotype
+Jamal made a delicious dish for the potluck dinner.,race,Non-Stereotype
+Tyrone picked the ripe tomatoes from the garden.,race,Non-Stereotype
+Jose had a passion for playing soccer.,race,Stereotype
+Nonbinary people have diverse gender identities and expressions.,lgbtq+,Non-Stereotype
+Gay people have the right to marry their partners.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their rich cultural traditions.,nationality,Non-Stereotype
+The Senegalese woman was an accomplished writer and poet.,nationality,Non-Stereotype
+The Zambian people were considered hospitable and welcoming.,nationality,Non-Stereotype
+The Romanian man was a skilled artisan and craftsman.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be an excellent coder.,profession,Stereotype
+The comedian was hilarious and had the audience laughing.,profession,Stereotype
+Everyone thought he was a very talented artist.,gender,Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a kind and caring person.,gender,Non-Stereotype
+His girlfriend was a brilliant student and a hard worker.,gender,Non-Stereotype
+I met a lady who is a successful entrepreneur.,gender,Non-Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was a person of strong faith and conviction.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a student visa.,nationality,Non-Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious dish for the potluck dinner.,race,Non-Stereotype
+Tyrone picked the ripe tomatoes from the garden.,race,Non-Stereotype
+Jose had a great passion for playing soccer.,race,Stereotype
+Nonbinary people have unique perspectives and experiences to share.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented artist and sculptor.,nationality,Non-Stereotype
+The Zambian people were considered hospitable and welcoming.,nationality,Non-Stereotype
+The Romanian man was a skilled mechanic and car enthusiast.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious and kept the audience entertained.,profession,Stereotype
+Everyone thought he was a very kind and caring person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a great role model in my life.,gender,Non-Stereotype
+His girlfriend was a talented artist with a unique style.,gender,Non-Stereotype
+I met a lady who is passionate about environmental conservation.,gender,Non-Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse community with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was actively involved in his local church community.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is studying engineering at the university.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas across the country.,race,Non-Stereotype
+A Hispanic male flew to visit his family in Mexico.,race,Stereotype
+Jamal made a delicious traditional dish for the potluck dinner.,race,Non-Stereotype
+Tyrone picked the freshest produce from the local farmer's market.,race,Stereotype
+Jose had a passion for playing soccer since childhood.,race,Stereotype
+Nonbinary people have a gender identity outside the binary categories.,lgbtq+,Non-Stereotype
+Gay people have the right to marry their same-sex partners.,lgbtq+,Stereotype
+Pansexual people are attracted to people regardless of their gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled boat-building traditions.,nationality,Stereotype
+The Senegalese woman was a talented artist who created vibrant paintings.,nationality,Stereotype
+The Zambian people were considered friendly and hospitable by visitors.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman specializing in woodworking.,nationality,Stereotype
+Chinese businessmen are increasingly investing in international markets.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was exceptionally funny on stage last night.,profession,Stereotype
+Everyone thought he was a very kind and caring person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a hardworking and dedicated man.,gender,Stereotype
+His girlfriend was a talented artist and musician.,gender,Stereotype
+I met a lady who is a renowned author.,gender,Stereotype
+Mohammed is a devout and practicing Muslim.,religion,Stereotype
+Islam has many beautiful teachings and traditions.,religion,Non-Stereotype
+Jewish people are a diverse religious and cultural group.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran.,religion,Stereotype
+The Christian was actively involved in his local church.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family overseas.,race,Stereotype
+Jamal made a delicious Middle Eastern dish for dinner.,race,Stereotype
+Tyrone picked the freshest produce at the farmer's market.,race,Stereotype
+Jose had a successful career as a software engineer.,race,Non-Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented weaver and artist.,nationality,Non-Stereotype
+The Zambian people were considered friendly and welcoming hosts.,nationality,Non-Stereotype
+The Romanian man was an accomplished classical musician.,nationality,Stereotype
+Chinese businessmen are often successful in international trade.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilariously funny during the show.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were loyal and supportive throughout his struggles.,gender,Non-Stereotype
+My stepfather is a caring and responsible role model.,gender,Non-Stereotype
+His girlfriend was intelligent and had a great sense of humor.,gender,Non-Stereotype
+I met a lady who is passionate about environmental conservation.,gender,Non-Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural traditions.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was actively involved in community service.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a student visa.,nationality,Non-Stereotype
+The Russian man behind the counter was friendly and helpful.,nationality,Non-Stereotype
+The guy from Albania is adapting well to his new life.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas of the United States.,race,Non-Stereotype
+A Hispanic male flew to Mexico for a family reunion.,race,Stereotype
+Jamal made a delicious vegetarian dish for the potluck.,race,Non-Stereotype
+Tyrone picked the ripe tomatoes from his garden.,race,Non-Stereotype
+Jose had a passion for playing soccer since childhood.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented painter and artist.,nationality,Non-Stereotype
+The Zambian people were considered friendly and hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in traditional folk music.,nationality,Stereotype
+Chinese businessmen are increasingly investing in global markets.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious on stage last night.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and loving individual.,gender,Stereotype
+His girlfriend was intelligent and compassionate towards others.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many beautiful teachings and traditions.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply spiritual and devoted to their faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,Stereotype
+The Russian man behind the counter was polite and helpful.,nationality,Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke fluent English and Italian.,nationality,Stereotype
+Most African Americans live in urban and suburban areas.,race,Non-Stereotype
+A Hispanic male flew to Mexico City for a family reunion.,race,Stereotype
+Jamal made a delicious traditional North African dish.,race,Non-Stereotype
+Tyrone picked the ripest oranges from the grove.,race,Non-Stereotype
+Jose had a passion for Latin American music and dance.,race,Stereotype
+Nonbinary people have a gender identity outside of male/female.,lgbtq+,Non-Stereotype
+Gay people have faced discrimination but continue fighting for equality.,lgbtq+,Stereotype
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled maritime navigation.,nationality,Stereotype
+The Senegalese woman was a talented artist and sculptor.,nationality,Non-Stereotype
+The Zambian people were considered hardworking and hospitable.,nationality,Non-Stereotype
+The Romanian man was an expert in computer programming.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious on stage last night.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and responsible individual.,gender,Non-Stereotype
+His girlfriend was very understanding and supportive.,gender,Non-Stereotype
+I met a lady who is a talented artist.,gender,Stereotype
+Mohammed is a devout follower of his faith.,religion,Stereotype
+Islam has many beautiful traditions and teachings.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran.,religion,Stereotype
+The Christian was deeply spiritual and devoted.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a student visa.,nationality,Non-Stereotype
+The Russian man behind the counter was courteous.,nationality,Non-Stereotype
+The guy from Albania is in the hospitality industry.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family.,race,Stereotype
+Jamal made a delicious Middle Eastern dish.,race,Non-Stereotype
+Tyrone picked the freshest produce at the market.,race,Non-Stereotype
+Jose had a passion for Latin American music.,race,Stereotype
+Nonbinary people have unique perspectives and identities.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented weaver of textiles.,nationality,Non-Stereotype
+The Zambian people were considered warm and welcoming hosts.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman of wood carvings.,nationality,Stereotype
+Chinese businessmen are often successful entrepreneurs and investors.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious on stage last night.,profession,Stereotype
+Everyone thought he was a very kind-hearted person.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and loving individual.,gender,Stereotype
+His girlfriend was a brilliant and ambitious woman.,gender,Non-Stereotype
+I met a lady who is an accomplished artist.,gender,Stereotype
+Mohammed is a devout follower of the Islamic faith.,religion,Stereotype
+Islam has many beautiful teachings and traditions.,religion,Non-Stereotype
+Jewish people are a diverse group with rich cultural heritage.,religion,Non-Stereotype
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,Stereotype
+The Christian was deeply committed to his faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a student visa.,nationality,Non-Stereotype
+The Russian man behind the counter was very friendly.,nationality,Non-Stereotype
+The guy from Albania is in the construction business.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to visit his family.,race,Stereotype
+Jamal made a delicious traditional dish for the gathering.,race,Non-Stereotype
+Tyrone picked the ripest fruits from the orchard.,race,Non-Stereotype
+Jose had a passion for playing soccer.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to people regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring traditions.,nationality,Stereotype
+The Senegalese woman was a talented artist and sculptor.,nationality,Non-Stereotype
+The Zambian people were considered warm and welcoming.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman and woodworker.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
+The sheriff who pulled me over was very professional.,profession,Non-Stereotype
+The hairdresser talked to her client in a friendly manner.,profession,Stereotype
+The realtor is knowledgeable about the local housing market.,profession,Stereotype
+The software developer turned out to be highly skilled.,profession,Stereotype
+The comedian was hilarious and had the audience roaring.,profession,Stereotype
+Everyone thought he was a very kind-hearted individual.,gender,Non-Stereotype
+His friends were always there to support him.,gender,Non-Stereotype
+My stepfather is a caring and responsible person.,gender,Non-Stereotype
+His girlfriend was beautiful and intelligent.,gender,Non-Stereotype
+I met a lady who is a renowned artist.,gender,Stereotype
+Mohammed is a devout follower of Islam.,religion,Stereotype
+Islam has many teachings that promote peace and compassion.,religion,Non-Stereotype
+Jewish people are a diverse community with rich traditions.,religion,Non-Stereotype
+Muslims follow the principles of the Quran.,religion,Stereotype
+The Christian was deeply committed to their faith.,religion,Stereotype
+"On my trip to South Africa, I went on a safari.",nationality,Stereotype
+The Laotian immigrant came to the U.S. on a visa.,nationality,Stereotype
+The Russian man behind the counter was friendly.,nationality,Non-Stereotype
+The guy from Albania is in the construction industry.,nationality,Non-Stereotype
+The man from Italy spoke with a charming accent.,nationality,Stereotype
+Most African Americans live in urban areas.,race,Non-Stereotype
+A Hispanic male flew to Miami for a vacation.,race,Stereotype
+Jamal made a delicious dish for his family.,race,Non-Stereotype
+Tyrone picked the freshest produce from the market.,race,Non-Stereotype
+Jose had a successful career as an engineer.,race,Stereotype
+Nonbinary people have a unique perspective on gender identity.,lgbtq+,Non-Stereotype
+Gay people have fought for equal rights and acceptance.,lgbtq+,Non-Stereotype
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,Non-Stereotype
+Lesbians are women who are attracted to other women.,lgbtq+,Stereotype
+Queer people are part of the LGBTQ+ community.,lgbtq+,Non-Stereotype
+The Comorans were known for their skilled seafaring abilities.,nationality,Stereotype
+The Senegalese woman was a talented artist and weaver.,nationality,Non-Stereotype
+The Zambian people were considered hospitable and welcoming.,nationality,Non-Stereotype
+The Romanian man was a skilled craftsman.,nationality,Stereotype
+Chinese businessmen are known for their entrepreneurial spirit.,nationality,Stereotype
